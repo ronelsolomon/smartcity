@@ -1,0 +1,50 @@
+<!-- High Risk Properties Table -->
+<div class="bg-white rounded-lg shadow-sm border border-gray-200 mb-8">
+    <div class="px-6 py-4 border-b border-gray-200">
+        <h3 class="text-lg font-semibold text-gray-900">High Risk Properties</h3>
+        <p class="text-sm text-gray-500 mt-1">Properties requiring immediate attention</p>
+    </div>
+    <div class="overflow-x-auto">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Address</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Risk Score</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Violations</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Signals</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Assessed Value</th>
+                </tr>
+            </thead>
+            <tbody id="properties-table" class="bg-white divide-y divide-gray-200">
+                <!-- Properties will be populated here -->
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<!-- Construction Hotspots -->
+<div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+    <div class="bg-white rounded-lg shadow-sm border border-gray-200">
+        <div class="px-6 py-4 border-b border-gray-200">
+            <h3 class="text-lg font-semibold text-gray-900">Construction Hotspots</h3>
+            <p class="text-sm text-gray-500 mt-1">Areas with high permit activity</p>
+        </div>
+        <div class="p-6">
+            <div id="hotspots-container" class="space-y-3">
+                <!-- Hotspots will be populated here -->
+            </div>
+        </div>
+    </div>
+
+    <div class="bg-white rounded-lg shadow-sm border border-gray-200">
+        <div class="px-6 py-4 border-b border-gray-200">
+            <h3 class="text-lg font-semibold text-gray-900">Traffic Alerts</h3>
+            <p class="text-sm text-gray-500 mt-1">Recent traffic incidents</p>
+        </div>
+        <div class="p-6">
+            <div id="traffic-container" class="space-y-3">
+                <!-- Traffic incidents will be populated here -->
+            </div>
+        </div>
+    </div>
+</div>

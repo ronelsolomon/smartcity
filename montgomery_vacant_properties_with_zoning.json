@@ -1,0 +1,65 @@
+[
+  {
+    "parcel_id": "R001001234",
+    "address": "1234 Bell St",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 25000.0,
+    "city_vacant_flag": true,
+    "last_inspection": "2024-01-15",
+    "violation_type": "Blight",
+    "zoning": {
+      "zone_code": "R-1",
+      "zone_description": "Single-Family Residential",
+      "land_use": "Residential",
+      "permitted_uses": [
+        "Single-family dwelling",
+        "Accessory structures"
+      ],
+      "minimum_lot_size": 5000.0,
+      "maximum_building_height": 35.0
+    }
+  },
+  {
+    "parcel_id": "R002005678",
+    "address": "5678 Mobile St",
+    "owner": "BANK OF AMERICA",
+    "assessed_value": 45000.0,
+    "city_vacant_flag": true,
+    "last_inspection": "2024-02-01",
+    "violation_type": "Foreclosure",
+    "zoning": {
+      "zone_code": "R-2",
+      "zone_description": "Two-Family Residential",
+      "land_use": "Residential",
+      "permitted_uses": [
+        "Single-family dwelling",
+        "Duplex",
+        "Accessory structures"
+      ],
+      "minimum_lot_size": 3000.0,
+      "maximum_building_height": 35.0
+    }
+  },
+  {
+    "parcel_id": "R003009012",
+    "address": "9012 Dexter Ave",
+    "owner": "UNKNOWN",
+    "assessed_value": 35000.0,
+    "city_vacant_flag": true,
+    "last_inspection": "2023-12-20",
+    "violation_type": "Abandoned",
+    "zoning": {
+      "zone_code": "B-2",
+      "zone_description": "Central Business District",
+      "land_use": "Commercial",
+      "permitted_uses": [
+        "All commercial uses",
+        "Office",
+        "Retail",
+        "Entertainment"
+      ],
+      "minimum_lot_size": 3000.0,
+      "maximum_building_height": 50.0
+    }
+  }
+]

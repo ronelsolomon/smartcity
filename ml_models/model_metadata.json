@@ -1,0 +1,26 @@
+{
+  "accuracy": 1.0,
+  "feature_importance": {
+    "assessed_value": 0.16,
+    "city_vacant_flag": 0.15,
+    "violation_count": 0.10325,
+    "permit_count": 0.11,
+    "listing_price": 0.0,
+    "days_on_market": 0.0,
+    "price_ratio": 0.0,
+    "neighborhood_vacancy": 0.056749999999999995,
+    "nearby_permits": 0.11,
+    "violation_trend": 0.17,
+    "days_since_permit": 0.11,
+    "property_age": 0.03
+  },
+  "training_history": [
+    {
+      "timestamp": "2026-03-08T08:18:57.557606",
+      "samples": 17,
+      "accuracy": 1.0,
+      "features_used": 12
+    }
+  ],
+  "last_updated": "2026-03-08T08:18:57.560528"
+}

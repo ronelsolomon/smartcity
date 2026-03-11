@@ -1,0 +1,294 @@
+{
+  "report_info": {
+    "generated_at": "2026-03-08T08:58:48.465478Z",
+    "report_type": "acquisition",
+    "properties_count": 10,
+    "total_assessed_value": 890354.1574199564,
+    "source_file": "montgomery_surplus_properties_20260308_005148.json"
+  },
+  "executive_summary": {
+    "key_findings": [
+      "10 of 10 properties meet basic acquisition eligibility",
+      "5 properties show high development potential",
+      "Total assessed value: $890,354.16",
+      "Estimated investment range: $267,106.25 - $801,318.74"
+    ],
+    "recommendations": [
+      "Prioritize Grade A and B eligible properties",
+      "Focus on properties with residential-friendly zoning",
+      "Consider neighborhood revitalization impact",
+      "Evaluate infrastructure requirements for each site"
+    ],
+    "investment_summary": {
+      "total_properties": 10,
+      "eligible_properties": 10,
+      "high_potential_properties": 5,
+      "estimated_total_investment": {
+        "min": 267106.2472259869,
+        "max": 801318.7416779606
+      },
+      "average_investment_per_property": {
+        "min": 26710.62472259869,
+        "max": 80131.87416779606
+      }
+    }
+  },
+  "property_details": [
+    {
+      "parcel_id": "S0001615",
+      "address": "652 Atlanta Hwy",
+      "assessed_value": 121514.58775563874,
+      "property_type": "Mixed Use",
+      "zoning": "R-1",
+      "eligibility": {
+        "eligible": true,
+        "grade": "A",
+        "score": 110
+      },
+      "development_potential": {
+        "score": 75,
+        "uses": [
+          "multi_family",
+          "commercial",
+          "mixed_use"
+        ],
+        "market_potential": "high",
+        "investment_range": {
+          "min": 36454.37632669162,
+          "max": 109363.12898007486
+        }
+      }
+    },
+    {
+      "parcel_id": "S0005130",
+      "address": "2262 Vista Dr",
+      "assessed_value": 18974.084408854527,
+      "property_type": "Mixed Use",
+      "zoning": "R-2",
+      "eligibility": {
+        "eligible": true,
+        "grade": "B",
+        "score": 80
+      },
+      "development_potential": {
+        "score": 75,
+        "uses": [
+          "multi_family",
+          "commercial",
+          "mixed_use"
+        ],
+        "market_potential": "high",
+        "investment_range": {
+          "min": 5692.225322656358,
+          "max": 17076.675967969073
+        }
+      }
+    },
+    {
+      "parcel_id": "S0018354",
+      "address": "7072 Perry Hill Rd",
+      "assessed_value": 108643.53180974135,
+      "property_type": "Vacant Land",
+      "zoning": "PUD",
+      "eligibility": {
+        "eligible": true,
+        "grade": "C",
+        "score": 70
+      },
+      "development_potential": {
+        "score": 75,
+        "uses": [
+          "multi_family",
+          "commercial",
+          "mixed_use"
+        ],
+        "market_potential": "high",
+        "investment_range": {
+          "min": 32593.059542922405,
+          "max": 97779.17862876721
+        }
+      }
+    },
+    {
+      "parcel_id": "S0021113",
+      "address": "8066 Atlanta Hwy",
+      "assessed_value": 140498.34551741372,
+      "property_type": "Single Family",
+      "zoning": "C-2",
+      "eligibility": {
+        "eligible": true,
+        "grade": "A",
+        "score": 100
+      },
+      "development_potential": {
+        "score": 75,
+        "uses": [
+          "multi_family",
+          "commercial",
+          "mixed_use"
+        ],
+        "market_potential": "high",
+        "investment_range": {
+          "min": 42149.503655224114,
+          "max": 126448.51096567235
+        }
+      }
+    },
+    {
+      "parcel_id": "S0024170",
+      "address": "8425 Perry Hill Rd",
+      "assessed_value": 17778.748185639008,
+      "property_type": "Commercial",
+      "zoning": "PUD",
+      "eligibility": {
+        "eligible": true,
+        "grade": "C",
+        "score": 70
+      },
+      "development_potential": {
+        "score": 75,
+        "uses": [
+          "multi_family",
+          "commercial",
+          "mixed_use"
+        ],
+        "market_potential": "high",
+        "investment_range": {
+          "min": 5333.624455691702,
+          "max": 16000.873367075106
+        }
+      }
+    },
+    {
+      "parcel_id": "S0010661",
+      "address": "8617 Mobile St",
+      "assessed_value": 69981.81941555649,
+      "property_type": "Mixed Use",
+      "zoning": "PUD",
+      "eligibility": {
+        "eligible": true,
+        "grade": "C",
+        "score": 70
+      },
+      "development_potential": {
+        "score": 65,
+        "uses": [
+          "single_family",
+          "duplex"
+        ],
+        "market_potential": "medium",
+        "investment_range": {
+          "min": 20994.545824666944,
+          "max": 62983.63747400083
+        }
+      }
+    },
+    {
+      "parcel_id": "S0011536",
+      "address": "9255 Woodley Rd",
+      "assessed_value": 93398.74837383733,
+      "property_type": "Vacant Land",
+      "zoning": "R-2",
+      "eligibility": {
+        "eligible": true,
+        "grade": "A",
+        "score": 110
+      },
+      "development_potential": {
+        "score": 65,
+        "uses": [
+          "single_family",
+          "duplex"
+        ],
+        "market_potential": "medium",
+        "investment_range": {
+          "min": 28019.624512151197,
+          "max": 84058.87353645358
+        }
+      }
+    },
+    {
+      "parcel_id": "S0013630",
+      "address": "7936 Atlanta Hwy",
+      "assessed_value": 109017.14854748768,
+      "property_type": "Commercial",
+      "zoning": "R-2",
+      "eligibility": {
+        "eligible": true,
+        "grade": "A",
+        "score": 110
+      },
+      "development_potential": {
+        "score": 65,
+        "uses": [
+          "multi_family",
+          "commercial",
+          "mixed_use"
+        ],
+        "market_potential": "medium",
+        "investment_range": {
+          "min": 32705.144564246304,
+          "max": 98115.43369273891
+        }
+      }
+    },
+    {
+      "parcel_id": "S0015595",
+      "address": "5480 Mobile St",
+      "assessed_value": 114313.19154134204,
+      "property_type": "Mixed Use",
+      "zoning": "C-2",
+      "eligibility": {
+        "eligible": true,
+        "grade": "C",
+        "score": 70
+      },
+      "development_potential": {
+        "score": 65,
+        "uses": [
+          "single_family",
+          "duplex"
+        ],
+        "market_potential": "medium",
+        "investment_range": {
+          "min": 34293.957462402606,
+          "max": 102881.87238720781
+        }
+      }
+    },
+    {
+      "parcel_id": "S0016808",
+      "address": "8955 Eastern Blvd",
+      "assessed_value": 96233.9518644455,
+      "property_type": "Duplex",
+      "zoning": "C-2",
+      "eligibility": {
+        "eligible": true,
+        "grade": "A",
+        "score": 100
+      },
+      "development_potential": {
+        "score": 65,
+        "uses": [
+          "multi_family",
+          "commercial",
+          "mixed_use"
+        ],
+        "market_potential": "medium",
+        "investment_range": {
+          "min": 28870.185559333648,
+          "max": 86610.55667800094
+        }
+      }
+    }
+  ],
+  "market_analysis": {},
+  "next_steps": [
+    "Verify property status and availability",
+    "Conduct site visits for top priority properties",
+    "Review zoning regulations and restrictions",
+    "Assess infrastructure and utility requirements",
+    "Evaluate community impact and support",
+    "Prepare acquisition applications and documentation"
+  ]
+}

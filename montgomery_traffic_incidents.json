@@ -1,0 +1,16 @@
+[
+  {
+    "incident_id": "T2024001",
+    "location": "Bell St & Mobile St",
+    "type": "Accident",
+    "date": "2024-02-10",
+    "severity": "Minor"
+  },
+  {
+    "incident_id": "T2024002",
+    "location": "Dexter Ave & Perry St",
+    "type": "Traffic Stop",
+    "date": "2024-02-15",
+    "severity": "Low"
+  }
+]

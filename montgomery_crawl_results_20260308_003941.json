@@ -1,0 +1,19 @@
+{
+  "discovered_datasets": 1,
+  "categories": {
+    "building_permits": 0,
+    "code_violations": 0,
+    "vacant_properties": 0,
+    "traffic_incidents": 0,
+    "property_assessments": 0,
+    "real_estate": 0
+  },
+  "downloads": {},
+  "summary": {
+    "total_downloads": 0,
+    "successful_downloads": 0,
+    "failed_downloads": 0,
+    "total_records": 0
+  },
+  "crawled_at": "2026-03-08T08:39:41.956562Z"
+}

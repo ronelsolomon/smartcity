@@ -1,0 +1,107 @@
+{
+  "vacant_properties": [
+    {
+      "parcel_id": "R001001234",
+      "address": "1234 Bell St",
+      "owner": "CITY OF MONTGOMERY",
+      "assessed_value": 25000.0,
+      "city_vacant_flag": true,
+      "last_inspection": "2024-01-15",
+      "violation_type": "Blight"
+    },
+    {
+      "parcel_id": "R002005678",
+      "address": "5678 Mobile St",
+      "owner": "BANK OF AMERICA",
+      "assessed_value": 45000.0,
+      "city_vacant_flag": true,
+      "last_inspection": "2024-02-01",
+      "violation_type": "Foreclosure"
+    },
+    {
+      "parcel_id": "R003009012",
+      "address": "9012 Dexter Ave",
+      "owner": "UNKNOWN",
+      "assessed_value": 35000.0,
+      "city_vacant_flag": true,
+      "last_inspection": "2023-12-20",
+      "violation_type": "Abandoned"
+    }
+  ],
+  "code_violations": [
+    {
+      "violation_id": "V2024001",
+      "address": "1234 Bell St",
+      "type": "High Grass/Weeds",
+      "date": "2024-01-15",
+      "status": "Open",
+      "severity": "High"
+    },
+    {
+      "violation_id": "V2024002",
+      "address": "1234 Bell St",
+      "type": "Structural Issues",
+      "date": "2024-01-20",
+      "status": "Open",
+      "severity": "Critical"
+    },
+    {
+      "violation_id": "V2024003",
+      "address": "5678 Mobile St",
+      "type": "Boarded Windows",
+      "date": "2024-02-01",
+      "status": "Open",
+      "severity": "Medium"
+    },
+    {
+      "violation_id": "V2024004",
+      "address": "9012 Dexter Ave",
+      "type": "Trash/Debris",
+      "date": "2023-12-20",
+      "status": "Open",
+      "severity": "Medium"
+    }
+  ],
+  "building_permits": [
+    {
+      "permit_number": "P2024001",
+      "address": "3456 Commerce St",
+      "type": "Commercial Renovation",
+      "issued_date": "2024-01-10",
+      "value": 150000.0,
+      "status": "Active"
+    },
+    {
+      "permit_number": "P2024002",
+      "address": "7890 Perry St",
+      "type": "Residential Addition",
+      "issued_date": "2024-02-15",
+      "value": 75000.0,
+      "status": "Active"
+    },
+    {
+      "permit_number": "P2024003",
+      "address": "2345 Court St",
+      "type": "New Construction",
+      "issued_date": "2024-01-25",
+      "value": 250000.0,
+      "status": "Active"
+    }
+  ],
+  "traffic_incidents": [
+    {
+      "incident_id": "T2024001",
+      "location": "Bell St & Mobile St",
+      "type": "Accident",
+      "date": "2024-02-10",
+      "severity": "Minor"
+    },
+    {
+      "incident_id": "T2024002",
+      "location": "Dexter Ave & Perry St",
+      "type": "Traffic Stop",
+      "date": "2024-02-15",
+      "severity": "Low"
+    }
+  ]
+}

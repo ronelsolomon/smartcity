@@ -1,0 +1,98 @@
+{
+  "generated_at": "2026-03-08T08:19:28.322945Z",
+  "total_properties": 3,
+  "high_risk_vacancies": [
+    {
+      "parcel_id": "R001001234",
+      "address": "1234 Bell St",
+      "owner": "",
+      "assessed_value": 0.0,
+      "city_vacant_flag": true,
+      "open_violations": 2,
+      "recent_permits": 0,
+      "listing_price": null,
+      "listing_source": "",
+      "days_on_market": null,
+      "vacancy_score": 56.00000000000001,
+      "signals": [
+        "city_vacant_registry",
+        "city_vacant_registry",
+        "code_violations:2",
+        "City vacant registry",
+        "Code violations: 2",
+        "ai_confidence:0.50"
+      ]
+    }
+  ],
+  "construction_hotspots": [
+    {
+      "address": "3456 commerce st",
+      "permit_count": 1
+    },
+    {
+      "address": "7890 perry st",
+      "permit_count": 1
+    },
+    {
+      "address": "2345 court st",
+      "permit_count": 1
+    }
+  ],
+  "traffic_alerts": [
+    {
+      "location": "Bell St & Mobile St",
+      "type": "Accident",
+      "date": "",
+      "severity": "Minor"
+    },
+    {
+      "location": "Dexter Ave & Perry St",
+      "type": "Traffic Stop",
+      "date": "",
+      "severity": "Low"
+    }
+  ],
+  "real_estate_trends": {
+    "sources_crawled": 3,
+    "listing_keywords": {},
+    "price_range": {
+      "min": null,
+      "max": null
+    },
+    "vacancy_mentions": 0,
+    "raw_snippets": [],
+    "ai_signals": 0,
+    "pattern_summary": {
+      "total_patterns": 0,
+      "pattern_types": {},
+      "recent_signals": 0,
+      "total_signals": 0,
+      "active_keywords": [],
+      "monitored_domains": []
+    }
+  },
+  "summary": {
+    "total_city_vacant_properties": 3,
+    "high_risk_count": 1,
+    "total_violations_indexed": 4,
+    "permits_last_90_days": 3,
+    "traffic_incidents_last_30d": 2,
+    "avg_vacancy_score": 50.7,
+    "ai_insights": {
+      "model_accuracy": 0.0,
+      "feature_importance": {},
+      "training_history": [],
+      "models_trained": false,
+      "last_training": null,
+      "trend_predictions": {
+        "time_horizon_days": 30,
+        "price_trend": "stable",
+        "volume_trend": "stable",
+        "risk_factors": [],
+        "opportunities": [],
+        "confidence": 0.5,
+        "supporting_patterns": []
+      }
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "generated_at": "2026-03-08T07:59:07.786698Z",
+  "total_properties": 50,
+  "high_risk_vacancies": [],
+  "construction_hotspots": [
+    {
+      "address": "1125 madison ave, montgomery, al",
+      "permit_count": 1
+    },
+    {
+      "address": "1734 madison ave, montgomery, al",
+      "permit_count": 1
+    },
+    {
+      "address": "311 bibb st, montgomery, al",
+      "permit_count": 1
+    },
+    {
+      "address": "2344 coosa st, montgomery, al",
+      "permit_count": 1
+    },
+    {
+      "address": "6943 coosa st, montgomery, al",
+      "permit_count": 1
+    },
+    {
+      "address": "712 bibb st, montgomery, al",
+      "permit_count": 1
+    },
+    {
+      "address": "5531 madison ave, montgomery, al",
+      "permit_count": 1
+    },
+    {
+      "address": "2228 coosa st, montgomery, al",
+      "permit_count": 1
+    },
+    {
+      "address": "7437 bibb st, montgomery, al",
+      "permit_count": 1
+    },
+    {
+      "address": "4750 coosa st, montgomery, al",
+      "permit_count": 1
+    }
+  ],
+  "traffic_alerts": [
+    {
+      "location": "Fairview Ave & Commerce St, Montgomery, AL",
+      "type": "Vehicle fire",
+      "date": "2026-02-26",
+      "severity": "minor"
+    },
+    {
+      "location": "Fairview Ave & Dexter Ave, Montgomery, AL",
+      "type": "Road hazard",
+      "date": "2026-02-10",
+      "severity": "major"
+    },
+    {
+      "location": "Cotton St & Commerce St, Montgomery, AL",
+      "type": "Vehicle fire",
+      "date": "2026-02-17",
+      "severity": "major"
+    },
+    {
+      "location": "Cotton St & Commerce St, Montgomery, AL",
+      "type": "Road hazard",
+      "date": "2026-03-02",
+      "severity": "moderate"
+    },
+    {
+      "location": "Highland Ave & Dexter Ave, Montgomery, AL",
+      "type": "Vehicle fire",
+      "date": "2026-03-03",
+      "severity": "moderate"
+    },
+    {
+      "location": "Fairview Ave & Commerce St, Montgomery, AL",
+      "type": "Accident",
+      "date": "2026-02-07",
+      "severity": "minor"
+    },
+    {
+      "location": "Cotton St & Dexter Ave, Montgomery, AL",
+      "type": "Signal outage",
+      "date": "2026-02-23",
+      "severity": "moderate"
+    },
+    {
+      "location": "Highland Ave & Commerce St, Montgomery, AL",
+      "type": "Construction",
+      "date": "2026-02-08",
+      "severity": "minor"
+    },
+    {
+      "location": "Highland Ave & Commerce St, Montgomery, AL",
+      "type": "Accident",
+      "date": "2026-02-10",
+      "severity": "moderate"
+    },
+    {
+      "location": "Cotton St & Dexter Ave, Montgomery, AL",
+      "type": "Debris on road",
+      "date": "2026-03-07",
+      "severity": "major"
+    },
+    {
+      "location": "Cotton St & Dexter Ave, Montgomery, AL",
+      "type": "Flooding",
+      "date": "2026-02-16",
+      "severity": "minor"
+    },
+    {
+      "location": "Highland Ave & Dexter Ave, Montgomery, AL",
+      "type": "Construction",
+      "date": "2026-03-05",
+      "severity": "minor"
+    },
+    {
+      "location": "Highland Ave & Dexter Ave, Montgomery, AL",
+      "type": "Debris on road",
+      "date": "2026-02-23",
+      "severity": "major"
+    },
+    {
+      "location": "Highland Ave & Dexter Ave, Montgomery, AL",
+      "type": "Debris on road",
+      "date": "2026-03-05",
+      "severity": "major"
+    },
+    {
+      "location": "Fairview Ave & Commerce St, Montgomery, AL",
+      "type": "Road hazard",
+      "date": "2026-02-27",
+      "severity": "moderate"
+    },
+    {
+      "location": "Cotton St & Commerce St, Montgomery, AL",
+      "type": "Flooding",
+      "date": "2026-02-08",
+      "severity": "minor"
+    },
+    {
+      "location": "Cotton St & Dexter Ave, Montgomery, AL",
+      "type": "Accident",
+      "date": "2026-02-28",
+      "severity": "minor"
+    },
+    {
+      "location": "Highland Ave & Dexter Ave, Montgomery, AL",
+      "type": "Flooding",
+      "date": "2026-03-04",
+      "severity": "minor"
+    },
+    {
+      "location": "Cotton St & Dexter Ave, Montgomery, AL",
+      "type": "Vehicle fire",
+      "date": "2026-02-23",
+      "severity": "minor"
+    },
+    {
+      "location": "Fairview Ave & Commerce St, Montgomery, AL",
+      "type": "Accident",
+      "date": "2026-02-16",
+      "severity": "minor"
+    }
+  ],
+  "real_estate_trends": {
+    "sources_crawled": 3,
+    "listing_keywords": {},
+    "price_range": {
+      "min": null,
+      "max": null
+    },
+    "vacancy_mentions": 0,
+    "raw_snippets": []
+  },
+  "summary": {
+    "total_city_vacant_properties": 50,
+    "high_risk_count": 0,
+    "total_violations_indexed": 100,
+    "permits_last_90_days": 75,
+    "traffic_incidents_last_30d": 40,
+    "avg_vacancy_score": 9.6
+  }
+}

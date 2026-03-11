@@ -1,0 +1,26 @@
+[
+  {
+    "permit_number": "P2024001",
+    "address": "3456 Commerce St",
+    "type": "Commercial Renovation",
+    "issued_date": "2024-01-10",
+    "value": 150000.0,
+    "status": "Active"
+  },
+  {
+    "permit_number": "P2024002",
+    "address": "7890 Perry St",
+    "type": "Residential Addition",
+    "issued_date": "2024-02-15",
+    "value": 75000.0,
+    "status": "Active"
+  },
+  {
+    "permit_number": "P2024003",
+    "address": "2345 Court St",
+    "type": "New Construction",
+    "issued_date": "2024-01-25",
+    "value": 250000.0,
+    "status": "Active"
+  }
+]

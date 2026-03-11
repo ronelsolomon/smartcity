@@ -1,0 +1,322 @@
+[
+  {
+    "incident_id": "INC-000000",
+    "location": "Fairview Ave & Commerce St, Montgomery, AL",
+    "incident_type": "Vehicle fire",
+    "incident_date": "2026-02-26",
+    "severity": "minor",
+    "status": "pending"
+  },
+  {
+    "incident_id": "INC-000001",
+    "location": "Fairview Ave & Dexter Ave, Montgomery, AL",
+    "incident_type": "Road hazard",
+    "incident_date": "2026-02-10",
+    "severity": "major",
+    "status": "under investigation"
+  },
+  {
+    "incident_id": "INC-000002",
+    "location": "Cotton St & Commerce St, Montgomery, AL",
+    "incident_type": "Vehicle fire",
+    "incident_date": "2026-02-17",
+    "severity": "major",
+    "status": "under investigation"
+  },
+  {
+    "incident_id": "INC-000003",
+    "location": "Cotton St & Commerce St, Montgomery, AL",
+    "incident_type": "Road hazard",
+    "incident_date": "2026-03-02",
+    "severity": "moderate",
+    "status": "under investigation"
+  },
+  {
+    "incident_id": "INC-000004",
+    "location": "Highland Ave & Dexter Ave, Montgomery, AL",
+    "incident_type": "Vehicle fire",
+    "incident_date": "2026-03-03",
+    "severity": "moderate",
+    "status": "pending"
+  },
+  {
+    "incident_id": "INC-000005",
+    "location": "Fairview Ave & Commerce St, Montgomery, AL",
+    "incident_type": "Accident",
+    "incident_date": "2026-02-07",
+    "severity": "minor",
+    "status": "under investigation"
+  },
+  {
+    "incident_id": "INC-000006",
+    "location": "Cotton St & Dexter Ave, Montgomery, AL",
+    "incident_type": "Signal outage",
+    "incident_date": "2026-02-23",
+    "severity": "moderate",
+    "status": "under investigation"
+  },
+  {
+    "incident_id": "INC-000007",
+    "location": "Highland Ave & Commerce St, Montgomery, AL",
+    "incident_type": "Construction",
+    "incident_date": "2026-02-08",
+    "severity": "minor",
+    "status": "under investigation"
+  },
+  {
+    "incident_id": "INC-000008",
+    "location": "Highland Ave & Commerce St, Montgomery, AL",
+    "incident_type": "Accident",
+    "incident_date": "2026-02-10",
+    "severity": "moderate",
+    "status": "pending"
+  },
+  {
+    "incident_id": "INC-000009",
+    "location": "Cotton St & Dexter Ave, Montgomery, AL",
+    "incident_type": "Debris on road",
+    "incident_date": "2026-03-07",
+    "severity": "major",
+    "status": "cleared"
+  },
+  {
+    "incident_id": "INC-000010",
+    "location": "Cotton St & Dexter Ave, Montgomery, AL",
+    "incident_type": "Flooding",
+    "incident_date": "2026-02-16",
+    "severity": "minor",
+    "status": "cleared"
+  },
+  {
+    "incident_id": "INC-000011",
+    "location": "Highland Ave & Dexter Ave, Montgomery, AL",
+    "incident_type": "Construction",
+    "incident_date": "2026-03-05",
+    "severity": "minor",
+    "status": "under investigation"
+  },
+  {
+    "incident_id": "INC-000012",
+    "location": "Highland Ave & Dexter Ave, Montgomery, AL",
+    "incident_type": "Debris on road",
+    "incident_date": "2026-02-23",
+    "severity": "major",
+    "status": "under investigation"
+  },
+  {
+    "incident_id": "INC-000013",
+    "location": "Highland Ave & Dexter Ave, Montgomery, AL",
+    "incident_type": "Debris on road",
+    "incident_date": "2026-03-05",
+    "severity": "major",
+    "status": "cleared"
+  },
+  {
+    "incident_id": "INC-000014",
+    "location": "Fairview Ave & Commerce St, Montgomery, AL",
+    "incident_type": "Road hazard",
+    "incident_date": "2026-02-27",
+    "severity": "moderate",
+    "status": "under investigation"
+  },
+  {
+    "incident_id": "INC-000015",
+    "location": "Cotton St & Commerce St, Montgomery, AL",
+    "incident_type": "Flooding",
+    "incident_date": "2026-02-08",
+    "severity": "minor",
+    "status": "under investigation"
+  },
+  {
+    "incident_id": "INC-000016",
+    "location": "Cotton St & Dexter Ave, Montgomery, AL",
+    "incident_type": "Accident",
+    "incident_date": "2026-02-28",
+    "severity": "minor",
+    "status": "pending"
+  },
+  {
+    "incident_id": "INC-000017",
+    "location": "Highland Ave & Dexter Ave, Montgomery, AL",
+    "incident_type": "Flooding",
+    "incident_date": "2026-03-04",
+    "severity": "minor",
+    "status": "pending"
+  },
+  {
+    "incident_id": "INC-000018",
+    "location": "Cotton St & Dexter Ave, Montgomery, AL",
+    "incident_type": "Vehicle fire",
+    "incident_date": "2026-02-23",
+    "severity": "minor",
+    "status": "cleared"
+  },
+  {
+    "incident_id": "INC-000019",
+    "location": "Fairview Ave & Commerce St, Montgomery, AL",
+    "incident_type": "Accident",
+    "incident_date": "2026-02-16",
+    "severity": "minor",
+    "status": "pending"
+  },
+  {
+    "incident_id": "INC-000020",
+    "location": "Fairview Ave & Commerce St, Montgomery, AL",
+    "incident_type": "Debris on road",
+    "incident_date": "2026-02-27",
+    "severity": "major",
+    "status": "cleared"
+  },
+  {
+    "incident_id": "INC-000021",
+    "location": "Highland Ave & Commerce St, Montgomery, AL",
+    "incident_type": "Flooding",
+    "incident_date": "2026-02-07",
+    "severity": "moderate",
+    "status": "cleared"
+  },
+  {
+    "incident_id": "INC-000022",
+    "location": "Cotton St & Commerce St, Montgomery, AL",
+    "incident_type": "Vehicle fire",
+    "incident_date": "2026-03-04",
+    "severity": "moderate",
+    "status": "under investigation"
+  },
+  {
+    "incident_id": "INC-000023",
+    "location": "Highland Ave & Dexter Ave, Montgomery, AL",
+    "incident_type": "Vehicle fire",
+    "incident_date": "2026-02-20",
+    "severity": "moderate",
+    "status": "pending"
+  },
+  {
+    "incident_id": "INC-000024",
+    "location": "Highland Ave & Dexter Ave, Montgomery, AL",
+    "incident_type": "Accident",
+    "incident_date": "2026-02-19",
+    "severity": "major",
+    "status": "pending"
+  },
+  {
+    "incident_id": "INC-000025",
+    "location": "Cotton St & Commerce St, Montgomery, AL",
+    "incident_type": "Signal outage",
+    "incident_date": "2026-02-15",
+    "severity": "moderate",
+    "status": "under investigation"
+  },
+  {
+    "incident_id": "INC-000026",
+    "location": "Highland Ave & Commerce St, Montgomery, AL",
+    "incident_type": "Road hazard",
+    "incident_date": "2026-02-20",
+    "severity": "minor",
+    "status": "cleared"
+  },
+  {
+    "incident_id": "INC-000027",
+    "location": "Highland Ave & Commerce St, Montgomery, AL",
+    "incident_type": "Flooding",
+    "incident_date": "2026-02-09",
+    "severity": "minor",
+    "status": "cleared"
+  },
+  {
+    "incident_id": "INC-000028",
+    "location": "Highland Ave & Dexter Ave, Montgomery, AL",
+    "incident_type": "Flooding",
+    "incident_date": "2026-02-19",
+    "severity": "major",
+    "status": "pending"
+  },
+  {
+    "incident_id": "INC-000029",
+    "location": "Cotton St & Dexter Ave, Montgomery, AL",
+    "incident_type": "Debris on road",
+    "incident_date": "2026-02-23",
+    "severity": "minor",
+    "status": "cleared"
+  },
+  {
+    "incident_id": "INC-000030",
+    "location": "Fairview Ave & Dexter Ave, Montgomery, AL",
+    "incident_type": "Debris on road",
+    "incident_date": "2026-02-09",
+    "severity": "moderate",
+    "status": "pending"
+  },
+  {
+    "incident_id": "INC-000031",
+    "location": "Highland Ave & Commerce St, Montgomery, AL",
+    "incident_type": "Signal outage",
+    "incident_date": "2026-02-06",
+    "severity": "moderate",
+    "status": "under investigation"
+  },
+  {
+    "incident_id": "INC-000032",
+    "location": "Cotton St & Dexter Ave, Montgomery, AL",
+    "incident_type": "Accident",
+    "incident_date": "2026-02-26",
+    "severity": "major",
+    "status": "cleared"
+  },
+  {
+    "incident_id": "INC-000033",
+    "location": "Highland Ave & Commerce St, Montgomery, AL",
+    "incident_type": "Accident",
+    "incident_date": "2026-03-04",
+    "severity": "minor",
+    "status": "pending"
+  },
+  {
+    "incident_id": "INC-000034",
+    "location": "Cotton St & Commerce St, Montgomery, AL",
+    "incident_type": "Flooding",
+    "incident_date": "2026-02-08",
+    "severity": "moderate",
+    "status": "cleared"
+  },
+  {
+    "incident_id": "INC-000035",
+    "location": "Fairview Ave & Commerce St, Montgomery, AL",
+    "incident_type": "Construction",
+    "incident_date": "2026-02-19",
+    "severity": "major",
+    "status": "cleared"
+  },
+  {
+    "incident_id": "INC-000036",
+    "location": "Cotton St & Dexter Ave, Montgomery, AL",
+    "incident_type": "Road hazard",
+    "incident_date": "2026-03-06",
+    "severity": "moderate",
+    "status": "under investigation"
+  },
+  {
+    "incident_id": "INC-000037",
+    "location": "Highland Ave & Commerce St, Montgomery, AL",
+    "incident_type": "Construction",
+    "incident_date": "2026-02-14",
+    "severity": "minor",
+    "status": "cleared"
+  },
+  {
+    "incident_id": "INC-000038",
+    "location": "Fairview Ave & Dexter Ave, Montgomery, AL",
+    "incident_type": "Signal outage",
+    "incident_date": "2026-02-15",
+    "severity": "moderate",
+    "status": "cleared"
+  },
+  {
+    "incident_id": "INC-000039",
+    "location": "Fairview Ave & Commerce St, Montgomery, AL",
+    "incident_type": "Road hazard",
+    "incident_date": "2026-02-11",
+    "severity": "major",
+    "status": "pending"
+  }
+]

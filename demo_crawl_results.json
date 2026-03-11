@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://www.zillow.com/montgomery-al/",
+    "status_code": 200,
+    "content": "\n            Montgomery AL Homes for Sale\n            347 homes for sale in Montgomery, AL\n            Median list price: $159,000\n            68 foreclosure listings available\n            Price reduced listings up 14% this quarter\n            25 vacant properties showing distress signals\n            Average days on market: 45 days\n            12 bank owned properties (REO)\n            ",
+    "markdown": "\n            # Montgomery AL Real Estate Market\n            \n            **Market Overview:**\n            - 347 active listings\n            - Median price: $159,000\n            - 68 foreclosures available\n            - 25 vacant/distressed properties\n            \n            **Trend Indicators:**\n            - Price reduced listings: +14% (quarterly increase)\n            - Bank owned properties: 12 REO listings\n            - Average DOM: 45 days\n            - Vacancy signals: 7.2% of listings\n            \n            **Distress Keywords:**\n            - Foreclosure: 68 mentions\n            - Vacant: 25 mentions  \n            - Bank owned: 12 mentions\n            - Price reduced: 48 mentions\n            ",
+    "timestamp": "2026-03-08T08:23:35.144015"
+  },
+  {
+    "url": "https://www.realtor.com/realestateandhomes-search/Montgomery_AL",
+    "status_code": 200,
+    "content": "\n            Montgomery AL Real Estate\n            285 properties for sale\n            15 foreclosure properties\n            8 vacant lots available\n            3 abandoned properties listed\n            Average price: $165,000\n            ",
+    "markdown": "\n            # Montgomery AL Real Estate Report\n            \n            **Inventory:**\n            - 285 total properties\n            - 15 foreclosure properties\n            - 8 vacant lots\n            - 3 abandoned properties\n            \n            **Pricing:**\n            - Average: $165,000\n            - Foreclosure discount: 25% below market\n            - Vacant property discount: 30% below market\n            \n            **Market Signals:**\n            - High foreclosure activity: 5.3% of market\n            - Vacant land opportunities: 8 lots available\n            - Abandoned properties: 3 requiring renovation\n            ",
+    "timestamp": "2026-03-08T08:23:35.144165"
+  },
+  {
+    "url": "https://www.trulia.com/AL/Montgomery/",
+    "status_code": 200,
+    "content": "\n            Trulia Montgomery AL\n            198 homes for sale\n            42 distressed properties\n            18 price reduced listings\n            9 bank owned homes\n            Market trending downward\n            ",
+    "markdown": "\n            # Trulia Montgomery Market Analysis\n            \n            **Current Market:**\n            - 198 active listings\n            - 42 distressed properties (21.2%)\n            - 18 price reduced listings\n            - 9 bank owned homes\n            \n            **Market Trends:**\n            - Overall market: trending downward\n            - Distress rate: 21.2% (elevated)\n            - Price reductions: 9.1% of listings\n            - Bank owned: 4.5% of market\n            \n            **Risk Indicators:**\n            - High distress concentration\n            - Downward price pressure\n            - Bank ownership increasing\n            ",
+    "timestamp": "2026-03-08T08:23:35.144166"
+  }
+]

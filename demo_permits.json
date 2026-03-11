@@ -1,0 +1,602 @@
+[
+  {
+    "permit_number": "PERM-000000",
+    "address": "1125 Madison Ave, Montgomery, AL",
+    "permit_type": "New construction",
+    "issued_date": "2025-12-17",
+    "job_value": 40274,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000001",
+    "address": "1734 Madison Ave, Montgomery, AL",
+    "permit_type": "HVAC",
+    "issued_date": "2026-01-11",
+    "job_value": 13513,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000002",
+    "address": "311 Bibb St, Montgomery, AL",
+    "permit_type": "Repair",
+    "issued_date": "2026-02-05",
+    "job_value": 13285,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000003",
+    "address": "2344 Coosa St, Montgomery, AL",
+    "permit_type": "Renovation",
+    "issued_date": "2025-12-24",
+    "job_value": 35226,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000004",
+    "address": "6943 Coosa St, Montgomery, AL",
+    "permit_type": "New construction",
+    "issued_date": "2026-01-06",
+    "job_value": 27833,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000005",
+    "address": "712 Bibb St, Montgomery, AL",
+    "permit_type": "Plumbing",
+    "issued_date": "2026-01-14",
+    "job_value": 26897,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000006",
+    "address": "5531 Madison Ave, Montgomery, AL",
+    "permit_type": "New construction",
+    "issued_date": "2026-01-17",
+    "job_value": 25663,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000007",
+    "address": "2228 Coosa St, Montgomery, AL",
+    "permit_type": "HVAC",
+    "issued_date": "2026-01-10",
+    "job_value": 49804,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000008",
+    "address": "7437 Bibb St, Montgomery, AL",
+    "permit_type": "HVAC",
+    "issued_date": "2026-01-11",
+    "job_value": 33981,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000009",
+    "address": "4750 Coosa St, Montgomery, AL",
+    "permit_type": "Electrical",
+    "issued_date": "2025-12-28",
+    "job_value": 29606,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000010",
+    "address": "2131 Bibb St, Montgomery, AL",
+    "permit_type": "Demolition",
+    "issued_date": "2026-01-14",
+    "job_value": 6444,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000011",
+    "address": "9463 Bibb St, Montgomery, AL",
+    "permit_type": "Renovation",
+    "issued_date": "2026-02-23",
+    "job_value": 38698,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000012",
+    "address": "3911 Coosa St, Montgomery, AL",
+    "permit_type": "HVAC",
+    "issued_date": "2025-12-13",
+    "job_value": 13994,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000013",
+    "address": "6256 Madison Ave, Montgomery, AL",
+    "permit_type": "Renovation",
+    "issued_date": "2025-12-20",
+    "job_value": 29862,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000014",
+    "address": "3161 Madison Ave, Montgomery, AL",
+    "permit_type": "Demolition",
+    "issued_date": "2026-01-18",
+    "job_value": 3138,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000015",
+    "address": "8757 Madison Ave, Montgomery, AL",
+    "permit_type": "Demolition",
+    "issued_date": "2026-01-29",
+    "job_value": 7268,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000016",
+    "address": "7798 Bibb St, Montgomery, AL",
+    "permit_type": "New construction",
+    "issued_date": "2026-03-01",
+    "job_value": 39784,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000017",
+    "address": "5425 Madison Ave, Montgomery, AL",
+    "permit_type": "HVAC",
+    "issued_date": "2025-12-09",
+    "job_value": 22921,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000018",
+    "address": "9379 Madison Ave, Montgomery, AL",
+    "permit_type": "Demolition",
+    "issued_date": "2026-03-04",
+    "job_value": 5029,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000019",
+    "address": "1345 Madison Ave, Montgomery, AL",
+    "permit_type": "Renovation",
+    "issued_date": "2026-02-12",
+    "job_value": 4281,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000020",
+    "address": "1054 Madison Ave, Montgomery, AL",
+    "permit_type": "Plumbing",
+    "issued_date": "2026-02-13",
+    "job_value": 18871,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000021",
+    "address": "643 Madison Ave, Montgomery, AL",
+    "permit_type": "Electrical",
+    "issued_date": "2026-01-19",
+    "job_value": 23099,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000022",
+    "address": "5153 Coosa St, Montgomery, AL",
+    "permit_type": "HVAC",
+    "issued_date": "2025-12-25",
+    "job_value": 17770,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000023",
+    "address": "5273 Coosa St, Montgomery, AL",
+    "permit_type": "Demolition",
+    "issued_date": "2026-02-26",
+    "job_value": 48271,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000024",
+    "address": "1960 Bibb St, Montgomery, AL",
+    "permit_type": "Demolition",
+    "issued_date": "2026-01-04",
+    "job_value": 37431,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000025",
+    "address": "7693 Bibb St, Montgomery, AL",
+    "permit_type": "Renovation",
+    "issued_date": "2026-02-14",
+    "job_value": 1550,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000026",
+    "address": "8426 Madison Ave, Montgomery, AL",
+    "permit_type": "Demolition",
+    "issued_date": "2026-02-27",
+    "job_value": 38658,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000027",
+    "address": "3588 Madison Ave, Montgomery, AL",
+    "permit_type": "HVAC",
+    "issued_date": "2026-01-14",
+    "job_value": 6797,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000028",
+    "address": "2542 Madison Ave, Montgomery, AL",
+    "permit_type": "Renovation",
+    "issued_date": "2026-02-08",
+    "job_value": 43822,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000029",
+    "address": "595 Madison Ave, Montgomery, AL",
+    "permit_type": "Renovation",
+    "issued_date": "2026-01-10",
+    "job_value": 40403,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000030",
+    "address": "6523 Madison Ave, Montgomery, AL",
+    "permit_type": "Plumbing",
+    "issued_date": "2025-12-13",
+    "job_value": 12094,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000031",
+    "address": "3689 Madison Ave, Montgomery, AL",
+    "permit_type": "Renovation",
+    "issued_date": "2026-01-26",
+    "job_value": 29506,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000032",
+    "address": "874 Madison Ave, Montgomery, AL",
+    "permit_type": "Roofing",
+    "issued_date": "2026-02-25",
+    "job_value": 11395,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000033",
+    "address": "8720 Coosa St, Montgomery, AL",
+    "permit_type": "Electrical",
+    "issued_date": "2026-01-06",
+    "job_value": 37789,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000034",
+    "address": "4658 Bibb St, Montgomery, AL",
+    "permit_type": "Renovation",
+    "issued_date": "2025-12-27",
+    "job_value": 48930,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000035",
+    "address": "9607 Madison Ave, Montgomery, AL",
+    "permit_type": "Demolition",
+    "issued_date": "2025-12-31",
+    "job_value": 3983,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000036",
+    "address": "4062 Coosa St, Montgomery, AL",
+    "permit_type": "Repair",
+    "issued_date": "2026-02-27",
+    "job_value": 17131,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000037",
+    "address": "1245 Coosa St, Montgomery, AL",
+    "permit_type": "Roofing",
+    "issued_date": "2026-02-08",
+    "job_value": 18597,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000038",
+    "address": "4002 Coosa St, Montgomery, AL",
+    "permit_type": "Plumbing",
+    "issued_date": "2025-12-08",
+    "job_value": 10046,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000039",
+    "address": "3408 Madison Ave, Montgomery, AL",
+    "permit_type": "Plumbing",
+    "issued_date": "2026-02-23",
+    "job_value": 5027,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000040",
+    "address": "7635 Bibb St, Montgomery, AL",
+    "permit_type": "New construction",
+    "issued_date": "2026-02-19",
+    "job_value": 3531,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000041",
+    "address": "8449 Madison Ave, Montgomery, AL",
+    "permit_type": "Repair",
+    "issued_date": "2025-12-12",
+    "job_value": 17555,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000042",
+    "address": "7174 Coosa St, Montgomery, AL",
+    "permit_type": "Renovation",
+    "issued_date": "2025-12-28",
+    "job_value": 30259,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000043",
+    "address": "4260 Madison Ave, Montgomery, AL",
+    "permit_type": "Renovation",
+    "issued_date": "2026-01-26",
+    "job_value": 46493,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000044",
+    "address": "7927 Coosa St, Montgomery, AL",
+    "permit_type": "Roofing",
+    "issued_date": "2026-02-27",
+    "job_value": 35413,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000045",
+    "address": "219 Bibb St, Montgomery, AL",
+    "permit_type": "Plumbing",
+    "issued_date": "2026-02-18",
+    "job_value": 36674,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000046",
+    "address": "4011 Bibb St, Montgomery, AL",
+    "permit_type": "Demolition",
+    "issued_date": "2025-12-19",
+    "job_value": 6224,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000047",
+    "address": "8473 Madison Ave, Montgomery, AL",
+    "permit_type": "Plumbing",
+    "issued_date": "2025-12-16",
+    "job_value": 9185,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000048",
+    "address": "8999 Bibb St, Montgomery, AL",
+    "permit_type": "Roofing",
+    "issued_date": "2025-12-20",
+    "job_value": 15684,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000049",
+    "address": "1218 Bibb St, Montgomery, AL",
+    "permit_type": "Renovation",
+    "issued_date": "2026-01-14",
+    "job_value": 20966,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000050",
+    "address": "804 Coosa St, Montgomery, AL",
+    "permit_type": "Demolition",
+    "issued_date": "2026-02-27",
+    "job_value": 20407,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000051",
+    "address": "4694 Bibb St, Montgomery, AL",
+    "permit_type": "Repair",
+    "issued_date": "2026-02-06",
+    "job_value": 23576,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000052",
+    "address": "9294 Coosa St, Montgomery, AL",
+    "permit_type": "Plumbing",
+    "issued_date": "2025-12-08",
+    "job_value": 19122,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000053",
+    "address": "2063 Coosa St, Montgomery, AL",
+    "permit_type": "Repair",
+    "issued_date": "2026-02-25",
+    "job_value": 28513,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000054",
+    "address": "9617 Bibb St, Montgomery, AL",
+    "permit_type": "Demolition",
+    "issued_date": "2025-12-15",
+    "job_value": 7912,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000055",
+    "address": "9165 Coosa St, Montgomery, AL",
+    "permit_type": "Renovation",
+    "issued_date": "2026-02-09",
+    "job_value": 44287,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000056",
+    "address": "5477 Bibb St, Montgomery, AL",
+    "permit_type": "Plumbing",
+    "issued_date": "2026-02-28",
+    "job_value": 5347,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000057",
+    "address": "1270 Coosa St, Montgomery, AL",
+    "permit_type": "Renovation",
+    "issued_date": "2026-01-18",
+    "job_value": 42391,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000058",
+    "address": "2885 Coosa St, Montgomery, AL",
+    "permit_type": "Plumbing",
+    "issued_date": "2026-02-22",
+    "job_value": 7224,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000059",
+    "address": "9421 Coosa St, Montgomery, AL",
+    "permit_type": "HVAC",
+    "issued_date": "2026-03-02",
+    "job_value": 47529,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000060",
+    "address": "3612 Bibb St, Montgomery, AL",
+    "permit_type": "HVAC",
+    "issued_date": "2026-02-01",
+    "job_value": 2104,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000061",
+    "address": "8465 Bibb St, Montgomery, AL",
+    "permit_type": "Roofing",
+    "issued_date": "2026-02-15",
+    "job_value": 45077,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000062",
+    "address": "5949 Madison Ave, Montgomery, AL",
+    "permit_type": "Demolition",
+    "issued_date": "2025-12-20",
+    "job_value": 44285,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000063",
+    "address": "6722 Madison Ave, Montgomery, AL",
+    "permit_type": "Renovation",
+    "issued_date": "2026-02-07",
+    "job_value": 12039,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000064",
+    "address": "3317 Bibb St, Montgomery, AL",
+    "permit_type": "Plumbing",
+    "issued_date": "2026-02-12",
+    "job_value": 48259,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000065",
+    "address": "8112 Coosa St, Montgomery, AL",
+    "permit_type": "Electrical",
+    "issued_date": "2025-12-24",
+    "job_value": 48112,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000066",
+    "address": "8935 Coosa St, Montgomery, AL",
+    "permit_type": "Repair",
+    "issued_date": "2026-01-22",
+    "job_value": 43703,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000067",
+    "address": "1083 Coosa St, Montgomery, AL",
+    "permit_type": "Roofing",
+    "issued_date": "2026-01-15",
+    "job_value": 25031,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000068",
+    "address": "6878 Madison Ave, Montgomery, AL",
+    "permit_type": "Plumbing",
+    "issued_date": "2026-02-05",
+    "job_value": 46652,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000069",
+    "address": "1708 Coosa St, Montgomery, AL",
+    "permit_type": "HVAC",
+    "issued_date": "2026-01-31",
+    "job_value": 28841,
+    "status": "expired"
+  },
+  {
+    "permit_number": "PERM-000070",
+    "address": "6844 Coosa St, Montgomery, AL",
+    "permit_type": "New construction",
+    "issued_date": "2026-01-12",
+    "job_value": 4136,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000071",
+    "address": "6359 Bibb St, Montgomery, AL",
+    "permit_type": "Electrical",
+    "issued_date": "2026-01-13",
+    "job_value": 30011,
+    "status": "completed"
+  },
+  {
+    "permit_number": "PERM-000072",
+    "address": "6430 Bibb St, Montgomery, AL",
+    "permit_type": "New construction",
+    "issued_date": "2025-12-08",
+    "job_value": 22071,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000073",
+    "address": "3033 Coosa St, Montgomery, AL",
+    "permit_type": "Roofing",
+    "issued_date": "2026-03-03",
+    "job_value": 8157,
+    "status": "issued"
+  },
+  {
+    "permit_number": "PERM-000074",
+    "address": "8056 Madison Ave, Montgomery, AL",
+    "permit_type": "Roofing",
+    "issued_date": "2026-01-16",
+    "job_value": 29379,
+    "status": "issued"
+  }
+]

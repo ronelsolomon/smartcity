@@ -1,0 +1,60 @@
+<!-- Charts Section -->
+<div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
+    <!-- Vacancy Risk Distribution -->
+    <div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+        <h3 class="text-lg font-semibold text-gray-900 mb-4">Vacancy Risk Distribution</h3>
+        <div class="chart-container">
+            <canvas id="riskChart"></canvas>
+        </div>
+    </div>
+
+    <!-- Construction Activity -->
+    <div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+        <h3 class="text-lg font-semibold text-gray-900 mb-4">Construction Activity (Last 90 Days)</h3>
+        <div class="chart-container">
+            <canvas id="constructionChart"></canvas>
+        </div>
+    </div>
+</div>
+
+<!-- Real Estate Trends -->
+<div class="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-8">
+    <div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+        <h3 class="text-lg font-semibold text-gray-900 mb-4">Price Range</h3>
+        <div class="space-y-2">
+            <div class="flex justify-between">
+                <span class="text-sm text-gray-600">Min Price</span>
+                <span id="min-price" class="text-sm font-medium text-gray-900">-</span>
+            </div>
+            <div class="flex justify-between">
+                <span class="text-sm text-gray-600">Max Price</span>
+                <span id="max-price" class="text-sm font-medium text-gray-900">-</span>
+            </div>
+            <div class="flex justify-between">
+                <span class="text-sm text-gray-600">Vacancy Mentions</span>
+                <span id="vacancy-mentions" class="text-sm font-medium text-red-600">-</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+        <h3 class="text-lg font-semibold text-gray-900 mb-4">Listing Keywords</h3>
+        <div id="keywords-container" class="space-y-2">
+            <!-- Keywords will be populated here -->
+        </div>
+    </div>
+
+    <div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+        <h3 class="text-lg font-semibold text-gray-900 mb-4">Traffic Incidents</h3>
+        <div class="space-y-2">
+            <div class="flex justify-between">
+                <span class="text-sm text-gray-600">Last 30 Days</span>
+                <span id="traffic-incidents" class="text-sm font-medium text-gray-900">-</span>
+            </div>
+            <div class="flex justify-between">
+                <span class="text-sm text-gray-600">Code Violations</span>
+                <span id="code-violations" class="text-sm font-medium text-gray-900">-</span>
+            </div>
+        </div>
+    </div>
+</div>

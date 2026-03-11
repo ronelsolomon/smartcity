@@ -1,0 +1,1346 @@
+[
+  {
+    "parcel_id": "S0001615",
+    "address": "652 Atlanta Hwy",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 121514.58775563874,
+    "property_type": "Mixed Use",
+    "zoning": "R-1",
+    "land_area": 10234.701537740222,
+    "building_area": 1480.8828531262452,
+    "year_built": null,
+    "status": "Available",
+    "listing_date": "2025-12-20",
+    "minimum_bid": 47058.04374801752,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Downtown",
+    "coordinates": {
+      "latitude": 32.43615823883279,
+      "longitude": -86.33253856693628
+    },
+    "neighborhood": "Cottage Hill",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "available_status",
+        "has_zoning",
+        "residential_friendly_zoning"
+      ],
+      "requirements_not_met": [],
+      "score": 110,
+      "notes": [],
+      "grade": "A"
+    },
+    "development_potential": {
+      "overall_score": 75,
+      "potential_uses": [
+        "multi_family",
+        "commercial",
+        "mixed_use"
+      ],
+      "advantages": [
+        "large_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [],
+      "estimated_investment_range": {
+        "min": 36454.37632669162,
+        "max": 109363.12898007486
+      },
+      "development_timeline_months": 18,
+      "market_potential": "high"
+    }
+  },
+  {
+    "parcel_id": "S0002277",
+    "address": "3305 Perry Hill Rd",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 81439.9947431899,
+    "property_type": "Duplex",
+    "zoning": "R-2",
+    "land_area": 7507.916493683138,
+    "building_area": 2046.6435982121045,
+    "year_built": 1967,
+    "status": "Pending",
+    "listing_date": "2025-11-30",
+    "minimum_bid": 45430.34642781713,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Capitol Heights",
+    "coordinates": {
+      "latitude": 32.3640178840477,
+      "longitude": -86.1837133966178
+    },
+    "neighborhood": "Garden City",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "has_zoning",
+        "residential_friendly_zoning"
+      ],
+      "requirements_not_met": [
+        "unavailable_status"
+      ],
+      "score": 80,
+      "notes": [
+        "Property status: Pending"
+      ],
+      "grade": "B"
+    },
+    "development_potential": {
+      "overall_score": 55,
+      "potential_uses": [
+        "single_family",
+        "duplex"
+      ],
+      "advantages": [
+        "medium_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [
+        "older_structure"
+      ],
+      "estimated_investment_range": {
+        "min": 24431.99842295697,
+        "max": 73295.99526887092
+      },
+      "development_timeline_months": 18,
+      "market_potential": "medium"
+    }
+  },
+  {
+    "parcel_id": "S0003714",
+    "address": "7935 Woodley Rd",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 90912.2476800675,
+    "property_type": "Vacant Land",
+    "zoning": "R-1",
+    "land_area": 3470.310205673359,
+    "building_area": 261.0938355673886,
+    "year_built": null,
+    "status": "For Sale",
+    "listing_date": "2026-01-25",
+    "minimum_bid": 27518.55278629972,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Old Cloverdale",
+    "coordinates": {
+      "latitude": 32.28973126241735,
+      "longitude": -86.28671121068919
+    },
+    "neighborhood": "Old Cloverdale",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "available_status",
+        "has_zoning",
+        "residential_friendly_zoning"
+      ],
+      "requirements_not_met": [],
+      "score": 110,
+      "notes": [],
+      "grade": "A"
+    },
+    "development_potential": {
+      "overall_score": 55,
+      "potential_uses": [
+        "single_family"
+      ],
+      "advantages": [
+        "identified_neighborhood"
+      ],
+      "challenges": [
+        "small_lot_size"
+      ],
+      "estimated_investment_range": {
+        "min": 27273.674304020253,
+        "max": 81821.02291206075
+      },
+      "development_timeline_months": 18,
+      "market_potential": "medium"
+    }
+  },
+  {
+    "parcel_id": "S0004402",
+    "address": "6074 Atlanta Hwy",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 130815.81716035113,
+    "property_type": "Commercial",
+    "zoning": "R-2",
+    "land_area": 4050.422360697799,
+    "building_area": 0,
+    "year_built": 1958,
+    "status": "Available",
+    "listing_date": "2026-03-06",
+    "minimum_bid": 17353.526206665098,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Cottage Hill",
+    "coordinates": {
+      "latitude": 32.36742412079078,
+      "longitude": -86.34814072078245
+    },
+    "neighborhood": "Old Cloverdale",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "available_status",
+        "has_zoning",
+        "residential_friendly_zoning"
+      ],
+      "requirements_not_met": [],
+      "score": 110,
+      "notes": [],
+      "grade": "A"
+    },
+    "development_potential": {
+      "overall_score": 45,
+      "potential_uses": [
+        "single_family"
+      ],
+      "advantages": [
+        "identified_neighborhood"
+      ],
+      "challenges": [
+        "small_lot_size",
+        "older_structure"
+      ],
+      "estimated_investment_range": {
+        "min": 39244.745148105336,
+        "max": 117734.235444316
+      },
+      "development_timeline_months": 12,
+      "market_potential": "low"
+    }
+  },
+  {
+    "parcel_id": "S0005130",
+    "address": "2262 Vista Dr",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 18974.084408854527,
+    "property_type": "Mixed Use",
+    "zoning": "R-2",
+    "land_area": 10402.686688747697,
+    "building_area": 406.5349436822546,
+    "year_built": null,
+    "status": "Under Contract",
+    "listing_date": "2026-01-19",
+    "minimum_bid": null,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Cottage Hill",
+    "coordinates": {
+      "latitude": 32.324448943290015,
+      "longitude": -86.25765388452525
+    },
+    "neighborhood": "Capitol Heights",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "has_zoning",
+        "residential_friendly_zoning"
+      ],
+      "requirements_not_met": [
+        "unavailable_status"
+      ],
+      "score": 80,
+      "notes": [
+        "Property status: Under Contract"
+      ],
+      "grade": "B"
+    },
+    "development_potential": {
+      "overall_score": 75,
+      "potential_uses": [
+        "multi_family",
+        "commercial",
+        "mixed_use"
+      ],
+      "advantages": [
+        "large_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [],
+      "estimated_investment_range": {
+        "min": 5692.225322656358,
+        "max": 17076.675967969073
+      },
+      "development_timeline_months": 18,
+      "market_potential": "high"
+    }
+  },
+  {
+    "parcel_id": "S0006257",
+    "address": "2380 Dexter Ave",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 82047.64840396811,
+    "property_type": "Commercial",
+    "zoning": "C-2",
+    "land_area": 4825.605580241642,
+    "building_area": 1654.2243295673495,
+    "year_built": 1994,
+    "status": "Under Contract",
+    "listing_date": "2026-02-28",
+    "minimum_bid": null,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Garden City",
+    "coordinates": {
+      "latitude": 32.42235556147879,
+      "longitude": -86.34892810108563
+    },
+    "neighborhood": "Old Cloverdale",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "has_zoning"
+      ],
+      "requirements_not_met": [
+        "unavailable_status"
+      ],
+      "score": 70,
+      "notes": [
+        "Property status: Under Contract"
+      ],
+      "grade": "C"
+    },
+    "development_potential": {
+      "overall_score": 55,
+      "potential_uses": [
+        "single_family"
+      ],
+      "advantages": [
+        "identified_neighborhood"
+      ],
+      "challenges": [
+        "small_lot_size"
+      ],
+      "estimated_investment_range": {
+        "min": 24614.294521190433,
+        "max": 73842.8835635713
+      },
+      "development_timeline_months": 18,
+      "market_potential": "medium"
+    }
+  },
+  {
+    "parcel_id": "S0007182",
+    "address": "537 Perry Hill Rd",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 147491.81530396274,
+    "property_type": "Commercial",
+    "zoning": "R-1",
+    "land_area": 4898.10106266573,
+    "building_area": 2409.378304694587,
+    "year_built": 1963,
+    "status": "Pending",
+    "listing_date": "2025-12-13",
+    "minimum_bid": 12273.61604616541,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Old Cloverdale",
+    "coordinates": {
+      "latitude": 32.352504042188684,
+      "longitude": -86.24458454820812
+    },
+    "neighborhood": "Cottage Hill",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "has_zoning",
+        "residential_friendly_zoning"
+      ],
+      "requirements_not_met": [
+        "unavailable_status"
+      ],
+      "score": 80,
+      "notes": [
+        "Property status: Pending"
+      ],
+      "grade": "B"
+    },
+    "development_potential": {
+      "overall_score": 45,
+      "potential_uses": [
+        "single_family"
+      ],
+      "advantages": [
+        "identified_neighborhood"
+      ],
+      "challenges": [
+        "small_lot_size",
+        "older_structure"
+      ],
+      "estimated_investment_range": {
+        "min": 44247.54459118882,
+        "max": 132742.63377356646
+      },
+      "development_timeline_months": 18,
+      "market_potential": "low"
+    }
+  },
+  {
+    "parcel_id": "S0008139",
+    "address": "4418 Vista Dr",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 20756.042341385622,
+    "property_type": "Single Family",
+    "zoning": "R-2",
+    "land_area": 7653.90443430467,
+    "building_area": 1433.6496405395633,
+    "year_built": 1957,
+    "status": "Pending",
+    "listing_date": "2025-10-08",
+    "minimum_bid": null,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Old Cloverdale",
+    "coordinates": {
+      "latitude": 32.39213040400658,
+      "longitude": -86.3156512437469
+    },
+    "neighborhood": "Garden City",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "has_zoning",
+        "residential_friendly_zoning"
+      ],
+      "requirements_not_met": [
+        "unavailable_status"
+      ],
+      "score": 80,
+      "notes": [
+        "Property status: Pending"
+      ],
+      "grade": "B"
+    },
+    "development_potential": {
+      "overall_score": 55,
+      "potential_uses": [
+        "single_family",
+        "duplex"
+      ],
+      "advantages": [
+        "medium_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [
+        "older_structure"
+      ],
+      "estimated_investment_range": {
+        "min": 6226.8127024156865,
+        "max": 18680.43810724706
+      },
+      "development_timeline_months": 18,
+      "market_potential": "medium"
+    }
+  },
+  {
+    "parcel_id": "S0009169",
+    "address": "584 Atlanta Hwy",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 95069.08625345977,
+    "property_type": "Commercial",
+    "zoning": "PUD",
+    "land_area": 4320.435199251527,
+    "building_area": 0,
+    "year_built": 1985,
+    "status": "For Sale",
+    "listing_date": "2025-10-05",
+    "minimum_bid": 46064.70894824079,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Old Cloverdale",
+    "coordinates": {
+      "latitude": 32.40839627582294,
+      "longitude": -86.3154852902513
+    },
+    "neighborhood": "Capitol Heights",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "available_status",
+        "has_zoning"
+      ],
+      "requirements_not_met": [],
+      "score": 100,
+      "notes": [],
+      "grade": "A"
+    },
+    "development_potential": {
+      "overall_score": 55,
+      "potential_uses": [
+        "single_family"
+      ],
+      "advantages": [
+        "identified_neighborhood"
+      ],
+      "challenges": [
+        "small_lot_size"
+      ],
+      "estimated_investment_range": {
+        "min": 28520.72587603793,
+        "max": 85562.17762811379
+      },
+      "development_timeline_months": 12,
+      "market_potential": "medium"
+    }
+  },
+  {
+    "parcel_id": "S0010661",
+    "address": "8617 Mobile St",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 69981.81941555649,
+    "property_type": "Mixed Use",
+    "zoning": "PUD",
+    "land_area": 7215.221624456638,
+    "building_area": 1388.76850734016,
+    "year_built": null,
+    "status": "Pending",
+    "listing_date": "2025-12-10",
+    "minimum_bid": null,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Old Cloverdale",
+    "coordinates": {
+      "latitude": 32.34238424753855,
+      "longitude": -86.232908599641
+    },
+    "neighborhood": "Old Cloverdale",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "has_zoning"
+      ],
+      "requirements_not_met": [
+        "unavailable_status"
+      ],
+      "score": 70,
+      "notes": [
+        "Property status: Pending"
+      ],
+      "grade": "C"
+    },
+    "development_potential": {
+      "overall_score": 65,
+      "potential_uses": [
+        "single_family",
+        "duplex"
+      ],
+      "advantages": [
+        "medium_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [],
+      "estimated_investment_range": {
+        "min": 20994.545824666944,
+        "max": 62983.63747400083
+      },
+      "development_timeline_months": 18,
+      "market_potential": "medium"
+    }
+  },
+  {
+    "parcel_id": "S0011536",
+    "address": "9255 Woodley Rd",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 93398.74837383733,
+    "property_type": "Vacant Land",
+    "zoning": "R-2",
+    "land_area": 5825.940476718457,
+    "building_area": 1327.6520236698505,
+    "year_built": null,
+    "status": "For Sale",
+    "listing_date": "2026-01-26",
+    "minimum_bid": 10736.02313642755,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Cottage Hill",
+    "coordinates": {
+      "latitude": 32.390681082020386,
+      "longitude": -86.21849870772118
+    },
+    "neighborhood": "Downtown",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "available_status",
+        "has_zoning",
+        "residential_friendly_zoning"
+      ],
+      "requirements_not_met": [],
+      "score": 110,
+      "notes": [],
+      "grade": "A"
+    },
+    "development_potential": {
+      "overall_score": 65,
+      "potential_uses": [
+        "single_family",
+        "duplex"
+      ],
+      "advantages": [
+        "medium_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [],
+      "estimated_investment_range": {
+        "min": 28019.624512151197,
+        "max": 84058.87353645358
+      },
+      "development_timeline_months": 18,
+      "market_potential": "medium"
+    }
+  },
+  {
+    "parcel_id": "S0012158",
+    "address": "4793 Atlanta Hwy",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 76917.9584251481,
+    "property_type": "Duplex",
+    "zoning": "M-1",
+    "land_area": 3627.187481852556,
+    "building_area": 800.4940889752985,
+    "year_built": 1978,
+    "status": "For Sale",
+    "listing_date": "2026-01-05",
+    "minimum_bid": null,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Capitol Heights",
+    "coordinates": {
+      "latitude": 32.397831223672995,
+      "longitude": -86.21038444345592
+    },
+    "neighborhood": "Old Cloverdale",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "available_status",
+        "has_zoning"
+      ],
+      "requirements_not_met": [],
+      "score": 100,
+      "notes": [],
+      "grade": "A"
+    },
+    "development_potential": {
+      "overall_score": 55,
+      "potential_uses": [
+        "single_family"
+      ],
+      "advantages": [
+        "identified_neighborhood"
+      ],
+      "challenges": [
+        "small_lot_size"
+      ],
+      "estimated_investment_range": {
+        "min": 23075.38752754443,
+        "max": 69226.16258263329
+      },
+      "development_timeline_months": 18,
+      "market_potential": "medium"
+    }
+  },
+  {
+    "parcel_id": "S0013630",
+    "address": "7936 Atlanta Hwy",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 109017.14854748768,
+    "property_type": "Commercial",
+    "zoning": "R-2",
+    "land_area": 14562.797048782817,
+    "building_area": 1425.9894742376837,
+    "year_built": 1970,
+    "status": "Available",
+    "listing_date": "2026-02-12",
+    "minimum_bid": 49351.66823833418,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Cottage Hill",
+    "coordinates": {
+      "latitude": 32.37517929390855,
+      "longitude": -86.29743018972732
+    },
+    "neighborhood": "Downtown",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "available_status",
+        "has_zoning",
+        "residential_friendly_zoning"
+      ],
+      "requirements_not_met": [],
+      "score": 110,
+      "notes": [],
+      "grade": "A"
+    },
+    "development_potential": {
+      "overall_score": 65,
+      "potential_uses": [
+        "multi_family",
+        "commercial",
+        "mixed_use"
+      ],
+      "advantages": [
+        "large_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [
+        "older_structure"
+      ],
+      "estimated_investment_range": {
+        "min": 32705.144564246304,
+        "max": 98115.43369273891
+      },
+      "development_timeline_months": 18,
+      "market_potential": "medium"
+    }
+  },
+  {
+    "parcel_id": "S0014990",
+    "address": "5932 Vista Dr",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 112751.75585898482,
+    "property_type": "Single Family",
+    "zoning": "R-2",
+    "land_area": 4034.9147978452265,
+    "building_area": 989.2901409331175,
+    "year_built": 1969,
+    "status": "Pending",
+    "listing_date": "2025-10-21",
+    "minimum_bid": 40790.29897245322,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Garden City",
+    "coordinates": {
+      "latitude": 32.31244464976278,
+      "longitude": -86.26419459351372
+    },
+    "neighborhood": "Downtown",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "has_zoning",
+        "residential_friendly_zoning"
+      ],
+      "requirements_not_met": [
+        "unavailable_status"
+      ],
+      "score": 80,
+      "notes": [
+        "Property status: Pending"
+      ],
+      "grade": "B"
+    },
+    "development_potential": {
+      "overall_score": 45,
+      "potential_uses": [
+        "single_family"
+      ],
+      "advantages": [
+        "identified_neighborhood"
+      ],
+      "challenges": [
+        "small_lot_size",
+        "older_structure"
+      ],
+      "estimated_investment_range": {
+        "min": 33825.52675769544,
+        "max": 101476.58027308632
+      },
+      "development_timeline_months": 18,
+      "market_potential": "low"
+    }
+  },
+  {
+    "parcel_id": "S0015595",
+    "address": "5480 Mobile St",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 114313.19154134204,
+    "property_type": "Mixed Use",
+    "zoning": "C-2",
+    "land_area": 9941.701565664742,
+    "building_area": 1475.028069810514,
+    "year_built": 1986,
+    "status": "Pending",
+    "listing_date": "2025-11-01",
+    "minimum_bid": 32979.70264707098,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Garden City",
+    "coordinates": {
+      "latitude": 32.37218963932808,
+      "longitude": -86.22364785031102
+    },
+    "neighborhood": "Old Cloverdale",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "has_zoning"
+      ],
+      "requirements_not_met": [
+        "unavailable_status"
+      ],
+      "score": 70,
+      "notes": [
+        "Property status: Pending"
+      ],
+      "grade": "C"
+    },
+    "development_potential": {
+      "overall_score": 65,
+      "potential_uses": [
+        "single_family",
+        "duplex"
+      ],
+      "advantages": [
+        "medium_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [],
+      "estimated_investment_range": {
+        "min": 34293.957462402606,
+        "max": 102881.87238720781
+      },
+      "development_timeline_months": 18,
+      "market_potential": "medium"
+    }
+  },
+  {
+    "parcel_id": "S0016808",
+    "address": "8955 Eastern Blvd",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 96233.9518644455,
+    "property_type": "Duplex",
+    "zoning": "C-2",
+    "land_area": 14401.979470783113,
+    "building_area": 2297.498570915532,
+    "year_built": 1961,
+    "status": "Available",
+    "listing_date": "2025-09-14",
+    "minimum_bid": null,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Cottage Hill",
+    "coordinates": {
+      "latitude": 32.343045680082625,
+      "longitude": -86.23988563621205
+    },
+    "neighborhood": "Old Cloverdale",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "available_status",
+        "has_zoning"
+      ],
+      "requirements_not_met": [],
+      "score": 100,
+      "notes": [],
+      "grade": "A"
+    },
+    "development_potential": {
+      "overall_score": 65,
+      "potential_uses": [
+        "multi_family",
+        "commercial",
+        "mixed_use"
+      ],
+      "advantages": [
+        "large_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [
+        "older_structure"
+      ],
+      "estimated_investment_range": {
+        "min": 28870.185559333648,
+        "max": 86610.55667800094
+      },
+      "development_timeline_months": 18,
+      "market_potential": "medium"
+    }
+  },
+  {
+    "parcel_id": "S0017233",
+    "address": "3237 Carmichael Rd",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 102500.84007802301,
+    "property_type": "Duplex",
+    "zoning": "R-1",
+    "land_area": 9743.425319655957,
+    "building_area": 831.0763601001466,
+    "year_built": null,
+    "status": "Available",
+    "listing_date": "2025-12-26",
+    "minimum_bid": null,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Cottage Hill",
+    "coordinates": {
+      "latitude": 32.31865509372641,
+      "longitude": -86.2778458292327
+    },
+    "neighborhood": "Downtown",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "available_status",
+        "has_zoning",
+        "residential_friendly_zoning"
+      ],
+      "requirements_not_met": [],
+      "score": 110,
+      "notes": [],
+      "grade": "A"
+    },
+    "development_potential": {
+      "overall_score": 65,
+      "potential_uses": [
+        "single_family",
+        "duplex"
+      ],
+      "advantages": [
+        "medium_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [],
+      "estimated_investment_range": {
+        "min": 30750.2520234069,
+        "max": 92250.7560702207
+      },
+      "development_timeline_months": 18,
+      "market_potential": "medium"
+    }
+  },
+  {
+    "parcel_id": "S0018354",
+    "address": "7072 Perry Hill Rd",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 108643.53180974135,
+    "property_type": "Vacant Land",
+    "zoning": "PUD",
+    "land_area": 14115.576292129545,
+    "building_area": 909.251141477721,
+    "year_built": 1996,
+    "status": "Under Contract",
+    "listing_date": "2025-12-28",
+    "minimum_bid": null,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Old Cloverdale",
+    "coordinates": {
+      "latitude": 32.328706791338284,
+      "longitude": -86.27589512420444
+    },
+    "neighborhood": "Old Cloverdale",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "has_zoning"
+      ],
+      "requirements_not_met": [
+        "unavailable_status"
+      ],
+      "score": 70,
+      "notes": [
+        "Property status: Under Contract"
+      ],
+      "grade": "C"
+    },
+    "development_potential": {
+      "overall_score": 75,
+      "potential_uses": [
+        "multi_family",
+        "commercial",
+        "mixed_use"
+      ],
+      "advantages": [
+        "large_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [],
+      "estimated_investment_range": {
+        "min": 32593.059542922405,
+        "max": 97779.17862876721
+      },
+      "development_timeline_months": 18,
+      "market_potential": "high"
+    }
+  },
+  {
+    "parcel_id": "S0019179",
+    "address": "9511 Perry Hill Rd",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 24479.92742131974,
+    "property_type": "Vacant Land",
+    "zoning": "R-1",
+    "land_area": 6704.8024004333465,
+    "building_area": 1751.9302336337441,
+    "year_built": null,
+    "status": "Available",
+    "listing_date": "2025-11-19",
+    "minimum_bid": null,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Capitol Heights",
+    "coordinates": {
+      "latitude": 32.26173983996083,
+      "longitude": -86.21484888323167
+    },
+    "neighborhood": "Garden City",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "available_status",
+        "has_zoning",
+        "residential_friendly_zoning"
+      ],
+      "requirements_not_met": [],
+      "score": 110,
+      "notes": [],
+      "grade": "A"
+    },
+    "development_potential": {
+      "overall_score": 65,
+      "potential_uses": [
+        "single_family",
+        "duplex"
+      ],
+      "advantages": [
+        "medium_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [],
+      "estimated_investment_range": {
+        "min": 7343.978226395921,
+        "max": 22031.934679187765
+      },
+      "development_timeline_months": 18,
+      "market_potential": "medium"
+    }
+  },
+  {
+    "parcel_id": "S0020566",
+    "address": "629 Eastern Blvd",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 120047.61898623995,
+    "property_type": "Duplex",
+    "zoning": "M-1",
+    "land_area": 9653.206715324088,
+    "building_area": 2394.7642241529334,
+    "year_built": 1963,
+    "status": "Under Contract",
+    "listing_date": "2026-03-05",
+    "minimum_bid": 20422.98628829154,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Cottage Hill",
+    "coordinates": {
+      "latitude": 32.395799315348576,
+      "longitude": -86.27322898605398
+    },
+    "neighborhood": "Old Cloverdale",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "has_zoning"
+      ],
+      "requirements_not_met": [
+        "unavailable_status"
+      ],
+      "score": 70,
+      "notes": [
+        "Property status: Under Contract"
+      ],
+      "grade": "C"
+    },
+    "development_potential": {
+      "overall_score": 55,
+      "potential_uses": [
+        "single_family",
+        "duplex"
+      ],
+      "advantages": [
+        "medium_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [
+        "older_structure"
+      ],
+      "estimated_investment_range": {
+        "min": 36014.285695871986,
+        "max": 108042.85708761596
+      },
+      "development_timeline_months": 18,
+      "market_potential": "medium"
+    }
+  },
+  {
+    "parcel_id": "S0021113",
+    "address": "8066 Atlanta Hwy",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 140498.34551741372,
+    "property_type": "Single Family",
+    "zoning": "C-2",
+    "land_area": 12747.642774167087,
+    "building_area": 1200.033257912259,
+    "year_built": 1987,
+    "status": "For Sale",
+    "listing_date": "2025-10-13",
+    "minimum_bid": 10243.532086097446,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Old Cloverdale",
+    "coordinates": {
+      "latitude": 32.444107698557275,
+      "longitude": -86.27730735036872
+    },
+    "neighborhood": "Downtown",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "available_status",
+        "has_zoning"
+      ],
+      "requirements_not_met": [],
+      "score": 100,
+      "notes": [],
+      "grade": "A"
+    },
+    "development_potential": {
+      "overall_score": 75,
+      "potential_uses": [
+        "multi_family",
+        "commercial",
+        "mixed_use"
+      ],
+      "advantages": [
+        "large_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [],
+      "estimated_investment_range": {
+        "min": 42149.503655224114,
+        "max": 126448.51096567235
+      },
+      "development_timeline_months": 18,
+      "market_potential": "high"
+    }
+  },
+  {
+    "parcel_id": "S0022502",
+    "address": "9986 Woodley Rd",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 57159.64588571645,
+    "property_type": "Duplex",
+    "zoning": "M-1",
+    "land_area": 6232.471312505862,
+    "building_area": 1968.4739123554295,
+    "year_built": 2000,
+    "status": "For Sale",
+    "listing_date": "2026-03-03",
+    "minimum_bid": 33672.49228490617,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Garden City",
+    "coordinates": {
+      "latitude": 32.412465077663256,
+      "longitude": -86.22419879570107
+    },
+    "neighborhood": "Cottage Hill",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "available_status",
+        "has_zoning"
+      ],
+      "requirements_not_met": [],
+      "score": 100,
+      "notes": [],
+      "grade": "A"
+    },
+    "development_potential": {
+      "overall_score": 65,
+      "potential_uses": [
+        "single_family",
+        "duplex"
+      ],
+      "advantages": [
+        "medium_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [],
+      "estimated_investment_range": {
+        "min": 17147.893765714933,
+        "max": 51443.681297144794
+      },
+      "development_timeline_months": 18,
+      "market_potential": "medium"
+    }
+  },
+  {
+    "parcel_id": "S0023493",
+    "address": "1680 Jackson St",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 83808.6960469554,
+    "property_type": "Commercial",
+    "zoning": "PUD",
+    "land_area": 8473.841743612265,
+    "building_area": 1583.1679544798135,
+    "year_built": null,
+    "status": "Pending",
+    "listing_date": "2025-12-23",
+    "minimum_bid": null,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Cottage Hill",
+    "coordinates": {
+      "latitude": 32.36467139734983,
+      "longitude": -86.29660204321276
+    },
+    "neighborhood": "Cottage Hill",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "has_zoning"
+      ],
+      "requirements_not_met": [
+        "unavailable_status"
+      ],
+      "score": 70,
+      "notes": [
+        "Property status: Pending"
+      ],
+      "grade": "C"
+    },
+    "development_potential": {
+      "overall_score": 65,
+      "potential_uses": [
+        "single_family",
+        "duplex"
+      ],
+      "advantages": [
+        "medium_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [],
+      "estimated_investment_range": {
+        "min": 25142.60881408662,
+        "max": 75427.82644225986
+      },
+      "development_timeline_months": 18,
+      "market_potential": "medium"
+    }
+  },
+  {
+    "parcel_id": "S0024170",
+    "address": "8425 Perry Hill Rd",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 17778.748185639008,
+    "property_type": "Commercial",
+    "zoning": "PUD",
+    "land_area": 13868.049585460218,
+    "building_area": 208.78722078059215,
+    "year_built": null,
+    "status": "Under Contract",
+    "listing_date": "2025-10-30",
+    "minimum_bid": 25306.0797634708,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Downtown",
+    "coordinates": {
+      "latitude": 32.456916143916175,
+      "longitude": -86.1853757306674
+    },
+    "neighborhood": "Capitol Heights",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "has_zoning"
+      ],
+      "requirements_not_met": [
+        "unavailable_status"
+      ],
+      "score": 70,
+      "notes": [
+        "Property status: Under Contract"
+      ],
+      "grade": "C"
+    },
+    "development_potential": {
+      "overall_score": 75,
+      "potential_uses": [
+        "multi_family",
+        "commercial",
+        "mixed_use"
+      ],
+      "advantages": [
+        "large_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [],
+      "estimated_investment_range": {
+        "min": 5333.624455691702,
+        "max": 16000.873367075106
+      },
+      "development_timeline_months": 18,
+      "market_potential": "high"
+    }
+  },
+  {
+    "parcel_id": "S0025295",
+    "address": "578 Jackson St",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 93952.547237489,
+    "property_type": "Duplex",
+    "zoning": "R-2",
+    "land_area": 6751.75308231786,
+    "building_area": 87.56684103186917,
+    "year_built": null,
+    "status": "For Sale",
+    "listing_date": "2025-11-29",
+    "minimum_bid": null,
+    "sale_price": null,
+    "description": "Surplus city-owned property in Garden City",
+    "coordinates": {
+      "latitude": 32.28381307888868,
+      "longitude": -86.2658305720965
+    },
+    "neighborhood": "Cottage Hill",
+    "acquisition_eligibility": {
+      "eligible": true,
+      "requirements_met": [
+        "reasonable_assessed_value",
+        "available_status",
+        "has_zoning",
+        "residential_friendly_zoning"
+      ],
+      "requirements_not_met": [],
+      "score": 110,
+      "notes": [],
+      "grade": "A"
+    },
+    "development_potential": {
+      "overall_score": 65,
+      "potential_uses": [
+        "single_family",
+        "duplex"
+      ],
+      "advantages": [
+        "medium_lot_size",
+        "identified_neighborhood"
+      ],
+      "challenges": [],
+      "estimated_investment_range": {
+        "min": 28185.764171246698,
+        "max": 84557.29251374009
+      },
+      "development_timeline_months": 18,
+      "market_potential": "medium"
+    }
+  }
+]

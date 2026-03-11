@@ -1,0 +1,802 @@
+[
+  {
+    "violation_id": "VIOL-000000",
+    "address": "7531 Commerce St, Montgomery, AL",
+    "violation_type": "Overgrown vegetation",
+    "violation_date": "2025-06-22",
+    "status": "pending",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000001",
+    "address": "4106 Washington Ave, Montgomery, AL",
+    "violation_type": "Code violation",
+    "violation_date": "2025-06-02",
+    "status": "closed",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000002",
+    "address": "3963 Washington Ave, Montgomery, AL",
+    "violation_type": "Code violation",
+    "violation_date": "2025-11-22",
+    "status": "pending",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000003",
+    "address": "2472 Commerce St, Montgomery, AL",
+    "violation_type": "Trash accumulation",
+    "violation_date": "2025-12-08",
+    "status": "pending",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000004",
+    "address": "1567 Commerce St, Montgomery, AL",
+    "violation_type": "Trash accumulation",
+    "violation_date": "2025-11-07",
+    "status": "closed",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000005",
+    "address": "4576 Commerce St, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2025-07-27",
+    "status": "closed",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000006",
+    "address": "1714 Dexter Ave, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2025-06-10",
+    "status": "closed",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000007",
+    "address": "8008 Commerce St, Montgomery, AL",
+    "violation_type": "Overgrown vegetation",
+    "violation_date": "2026-01-23",
+    "status": "open",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000008",
+    "address": "4753 Dexter Ave, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2025-06-29",
+    "status": "open",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000009",
+    "address": "8693 Dexter Ave, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2025-12-12",
+    "status": "open",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000010",
+    "address": "3208 Dexter Ave, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2025-09-26",
+    "status": "open",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000011",
+    "address": "3928 Dexter Ave, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2025-12-06",
+    "status": "open",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000012",
+    "address": "5456 Washington Ave, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2025-09-08",
+    "status": "open",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000013",
+    "address": "4776 Washington Ave, Montgomery, AL",
+    "violation_type": "Code violation",
+    "violation_date": "2026-02-10",
+    "status": "open",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000014",
+    "address": "3448 Dexter Ave, Montgomery, AL",
+    "violation_type": "Trash accumulation",
+    "violation_date": "2025-08-21",
+    "status": "closed",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000015",
+    "address": "6748 Dexter Ave, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2026-01-19",
+    "status": "closed",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000016",
+    "address": "858 Commerce St, Montgomery, AL",
+    "violation_type": "Trash accumulation",
+    "violation_date": "2025-03-14",
+    "status": "open",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000017",
+    "address": "783 Washington Ave, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2025-05-26",
+    "status": "pending",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000018",
+    "address": "482 Dexter Ave, Montgomery, AL",
+    "violation_type": "Trash accumulation",
+    "violation_date": "2025-07-27",
+    "status": "pending",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000019",
+    "address": "7687 Commerce St, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2026-02-26",
+    "status": "open",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000020",
+    "address": "5486 Dexter Ave, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2026-01-08",
+    "status": "closed",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000021",
+    "address": "6047 Dexter Ave, Montgomery, AL",
+    "violation_type": "Trash accumulation",
+    "violation_date": "2025-12-31",
+    "status": "closed",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000022",
+    "address": "2171 Washington Ave, Montgomery, AL",
+    "violation_type": "Code violation",
+    "violation_date": "2025-07-13",
+    "status": "closed",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000023",
+    "address": "3962 Washington Ave, Montgomery, AL",
+    "violation_type": "Code violation",
+    "violation_date": "2025-11-04",
+    "status": "pending",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000024",
+    "address": "8605 Washington Ave, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2026-02-06",
+    "status": "pending",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000025",
+    "address": "1092 Commerce St, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2025-11-13",
+    "status": "pending",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000026",
+    "address": "1212 Washington Ave, Montgomery, AL",
+    "violation_type": "Trash accumulation",
+    "violation_date": "2025-06-29",
+    "status": "open",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000027",
+    "address": "7345 Dexter Ave, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2025-10-28",
+    "status": "pending",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000028",
+    "address": "2758 Washington Ave, Montgomery, AL",
+    "violation_type": "Overgrown vegetation",
+    "violation_date": "2025-10-24",
+    "status": "closed",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000029",
+    "address": "6037 Dexter Ave, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2025-04-11",
+    "status": "pending",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000030",
+    "address": "8275 Dexter Ave, Montgomery, AL",
+    "violation_type": "Code violation",
+    "violation_date": "2025-10-02",
+    "status": "pending",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000031",
+    "address": "4718 Dexter Ave, Montgomery, AL",
+    "violation_type": "Overgrown vegetation",
+    "violation_date": "2025-10-13",
+    "status": "open",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000032",
+    "address": "304 Washington Ave, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2025-04-04",
+    "status": "open",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000033",
+    "address": "3383 Commerce St, Montgomery, AL",
+    "violation_type": "Trash accumulation",
+    "violation_date": "2025-08-16",
+    "status": "closed",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000034",
+    "address": "2881 Dexter Ave, Montgomery, AL",
+    "violation_type": "Code violation",
+    "violation_date": "2026-01-20",
+    "status": "closed",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000035",
+    "address": "1387 Commerce St, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2025-12-07",
+    "status": "closed",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000036",
+    "address": "8285 Washington Ave, Montgomery, AL",
+    "violation_type": "Overgrown vegetation",
+    "violation_date": "2025-07-08",
+    "status": "pending",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000037",
+    "address": "3685 Washington Ave, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2025-11-19",
+    "status": "pending",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000038",
+    "address": "163 Washington Ave, Montgomery, AL",
+    "violation_type": "Overgrown vegetation",
+    "violation_date": "2025-11-08",
+    "status": "pending",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000039",
+    "address": "8916 Washington Ave, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2025-12-29",
+    "status": "pending",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000040",
+    "address": "6611 Washington Ave, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2025-12-30",
+    "status": "pending",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000041",
+    "address": "9828 Dexter Ave, Montgomery, AL",
+    "violation_type": "Trash accumulation",
+    "violation_date": "2026-01-04",
+    "status": "closed",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000042",
+    "address": "6054 Dexter Ave, Montgomery, AL",
+    "violation_type": "Trash accumulation",
+    "violation_date": "2025-03-23",
+    "status": "closed",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000043",
+    "address": "5291 Dexter Ave, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2025-05-15",
+    "status": "pending",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000044",
+    "address": "1666 Dexter Ave, Montgomery, AL",
+    "violation_type": "Trash accumulation",
+    "violation_date": "2026-02-20",
+    "status": "open",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000045",
+    "address": "1089 Dexter Ave, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2025-08-27",
+    "status": "open",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000046",
+    "address": "477 Dexter Ave, Montgomery, AL",
+    "violation_type": "Code violation",
+    "violation_date": "2025-10-12",
+    "status": "open",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000047",
+    "address": "5908 Dexter Ave, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2025-06-17",
+    "status": "open",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000048",
+    "address": "2216 Dexter Ave, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2026-01-10",
+    "status": "closed",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000049",
+    "address": "3857 Commerce St, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2025-12-30",
+    "status": "closed",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000050",
+    "address": "9308 Dexter Ave, Montgomery, AL",
+    "violation_type": "Overgrown vegetation",
+    "violation_date": "2026-02-27",
+    "status": "open",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000051",
+    "address": "1173 Washington Ave, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2025-06-29",
+    "status": "pending",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000052",
+    "address": "6991 Washington Ave, Montgomery, AL",
+    "violation_type": "Trash accumulation",
+    "violation_date": "2025-07-10",
+    "status": "open",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000053",
+    "address": "9187 Dexter Ave, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2025-09-09",
+    "status": "pending",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000054",
+    "address": "9854 Washington Ave, Montgomery, AL",
+    "violation_type": "Overgrown vegetation",
+    "violation_date": "2025-06-08",
+    "status": "pending",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000055",
+    "address": "6340 Washington Ave, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2026-02-17",
+    "status": "pending",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000056",
+    "address": "2184 Dexter Ave, Montgomery, AL",
+    "violation_type": "Code violation",
+    "violation_date": "2025-03-22",
+    "status": "closed",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000057",
+    "address": "801 Washington Ave, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2025-05-10",
+    "status": "open",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000058",
+    "address": "6553 Commerce St, Montgomery, AL",
+    "violation_type": "Overgrown vegetation",
+    "violation_date": "2025-05-21",
+    "status": "pending",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000059",
+    "address": "5124 Commerce St, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2025-05-17",
+    "status": "closed",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000060",
+    "address": "1193 Commerce St, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2025-06-18",
+    "status": "pending",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000061",
+    "address": "3763 Washington Ave, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2025-09-23",
+    "status": "open",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000062",
+    "address": "226 Commerce St, Montgomery, AL",
+    "violation_type": "Overgrown vegetation",
+    "violation_date": "2026-01-12",
+    "status": "open",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000063",
+    "address": "5562 Dexter Ave, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2026-03-06",
+    "status": "pending",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000064",
+    "address": "3091 Dexter Ave, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2026-02-25",
+    "status": "open",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000065",
+    "address": "4676 Washington Ave, Montgomery, AL",
+    "violation_type": "Overgrown vegetation",
+    "violation_date": "2025-05-20",
+    "status": "open",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000066",
+    "address": "1006 Commerce St, Montgomery, AL",
+    "violation_type": "Trash accumulation",
+    "violation_date": "2025-12-20",
+    "status": "open",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000067",
+    "address": "1224 Commerce St, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2025-05-19",
+    "status": "open",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000068",
+    "address": "1228 Commerce St, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2025-07-24",
+    "status": "open",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000069",
+    "address": "3298 Washington Ave, Montgomery, AL",
+    "violation_type": "Overgrown vegetation",
+    "violation_date": "2025-11-17",
+    "status": "closed",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000070",
+    "address": "3848 Commerce St, Montgomery, AL",
+    "violation_type": "Trash accumulation",
+    "violation_date": "2026-01-30",
+    "status": "closed",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000071",
+    "address": "3147 Commerce St, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2026-02-07",
+    "status": "pending",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000072",
+    "address": "8232 Dexter Ave, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2025-09-13",
+    "status": "open",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000073",
+    "address": "507 Commerce St, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2025-04-13",
+    "status": "pending",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000074",
+    "address": "7103 Commerce St, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2025-05-30",
+    "status": "pending",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000075",
+    "address": "2955 Commerce St, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2025-08-15",
+    "status": "open",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000076",
+    "address": "4728 Commerce St, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2025-07-17",
+    "status": "pending",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000077",
+    "address": "8050 Washington Ave, Montgomery, AL",
+    "violation_type": "Trash accumulation",
+    "violation_date": "2025-10-08",
+    "status": "open",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000078",
+    "address": "7030 Commerce St, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2025-08-02",
+    "status": "closed",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000079",
+    "address": "4028 Commerce St, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2025-10-07",
+    "status": "closed",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000080",
+    "address": "7185 Washington Ave, Montgomery, AL",
+    "violation_type": "Overgrown vegetation",
+    "violation_date": "2025-03-22",
+    "status": "pending",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000081",
+    "address": "8089 Washington Ave, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2025-10-21",
+    "status": "closed",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000082",
+    "address": "7989 Dexter Ave, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2025-08-17",
+    "status": "pending",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000083",
+    "address": "8871 Washington Ave, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2025-12-21",
+    "status": "open",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000084",
+    "address": "6219 Commerce St, Montgomery, AL",
+    "violation_type": "Code violation",
+    "violation_date": "2025-12-20",
+    "status": "pending",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000085",
+    "address": "5371 Washington Ave, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2025-03-08",
+    "status": "pending",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000086",
+    "address": "8906 Commerce St, Montgomery, AL",
+    "violation_type": "Overgrown vegetation",
+    "violation_date": "2025-10-07",
+    "status": "closed",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000087",
+    "address": "1787 Commerce St, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2025-04-05",
+    "status": "closed",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000088",
+    "address": "3233 Washington Ave, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2025-11-23",
+    "status": "closed",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000089",
+    "address": "6559 Washington Ave, Montgomery, AL",
+    "violation_type": "Overgrown vegetation",
+    "violation_date": "2025-11-02",
+    "status": "open",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000090",
+    "address": "7482 Dexter Ave, Montgomery, AL",
+    "violation_type": "Overgrown vegetation",
+    "violation_date": "2025-10-20",
+    "status": "open",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000091",
+    "address": "8292 Dexter Ave, Montgomery, AL",
+    "violation_type": "Trash accumulation",
+    "violation_date": "2025-03-17",
+    "status": "open",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000092",
+    "address": "5881 Commerce St, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2025-03-10",
+    "status": "pending",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000093",
+    "address": "185 Washington Ave, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2025-08-01",
+    "status": "pending",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000094",
+    "address": "8262 Washington Ave, Montgomery, AL",
+    "violation_type": "Overgrown vegetation",
+    "violation_date": "2025-12-23",
+    "status": "open",
+    "severity": "high"
+  },
+  {
+    "violation_id": "VIOL-000095",
+    "address": "4106 Dexter Ave, Montgomery, AL",
+    "violation_type": "Abandoned vehicle",
+    "violation_date": "2025-12-12",
+    "status": "closed",
+    "severity": "low"
+  },
+  {
+    "violation_id": "VIOL-000096",
+    "address": "7488 Commerce St, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2025-06-24",
+    "status": "open",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000097",
+    "address": "1005 Commerce St, Montgomery, AL",
+    "violation_type": "Structural damage",
+    "violation_date": "2025-09-25",
+    "status": "open",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000098",
+    "address": "5465 Commerce St, Montgomery, AL",
+    "violation_type": "Unsafe structure",
+    "violation_date": "2026-02-05",
+    "status": "closed",
+    "severity": "medium"
+  },
+  {
+    "violation_id": "VIOL-000099",
+    "address": "6367 Washington Ave, Montgomery, AL",
+    "violation_type": "Trash accumulation",
+    "violation_date": "2025-05-31",
+    "status": "pending",
+    "severity": "low"
+  }
+]

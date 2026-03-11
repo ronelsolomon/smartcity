@@ -1,0 +1,29 @@
+[
+  {
+    "parcel_id": "R001001234",
+    "address": "1234 Bell St",
+    "owner": "CITY OF MONTGOMERY",
+    "assessed_value": 25000.0,
+    "city_vacant_flag": true,
+    "last_inspection": "2024-01-15",
+    "violation_type": "Blight"
+  },
+  {
+    "parcel_id": "R002005678",
+    "address": "5678 Mobile St",
+    "owner": "BANK OF AMERICA",
+    "assessed_value": 45000.0,
+    "city_vacant_flag": true,
+    "last_inspection": "2024-02-01",
+    "violation_type": "Foreclosure"
+  },
+  {
+    "parcel_id": "R003009012",
+    "address": "9012 Dexter Ave",
+    "owner": "UNKNOWN",
+    "assessed_value": 35000.0,
+    "city_vacant_flag": true,
+    "last_inspection": "2023-12-20",
+    "violation_type": "Abandoned"
+  }
+]

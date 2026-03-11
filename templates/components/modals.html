@@ -1,0 +1,43 @@
+<!-- Zoning Modal -->
+<div id="zoning-modal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+    <div class="bg-white rounded-lg shadow-xl max-w-4xl max-h-[90vh] w-full mx-4 overflow-hidden">
+        <div class="px-6 py-4 border-b border-gray-200 flex justify-between items-center">
+            <div>
+                <h2 class="text-xl font-semibold text-gray-900">Montgomery Zoning Districts</h2>
+                <p class="text-sm text-gray-500 mt-1">Zoning regulations and permitted uses</p>
+            </div>
+            <button id="close-zoning-modal" class="text-gray-400 hover:text-gray-600">
+                <i data-lucide="x" class="w-6 h-6"></i>
+            </button>
+        </div>
+        
+        <div class="p-6 overflow-y-auto max-h-[70vh]">
+            <div id="zoning-districts-container" class="space-y-4">
+                <!-- Zoning districts will be populated here -->
+                <div class="text-center py-8 text-gray-500">
+                    <i data-lucide="loader" class="w-8 h-8 animate-spin mx-auto mb-2"></i>
+                    <p>Loading zoning districts...</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="px-6 py-4 border-t border-gray-200 bg-gray-50">
+            <div class="flex justify-between items-center">
+                <p class="text-sm text-gray-600">
+                    Data sourced from Montgomery OpenData Portal
+                </p>
+                <button id="close-zoning-btn" class="px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50">
+                    Close
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Loading Overlay -->
+<div id="loading-overlay" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+    <div class="bg-white rounded-lg p-6 flex items-center space-x-3">
+        <div class="animate-spin rounded-full h-6 w-6 border-b-2 border-blue-600"></div>
+        <span class="text-gray-700">Loading dashboard data...</span>
+    </div>
+</div>

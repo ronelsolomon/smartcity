@@ -1,0 +1,60 @@
+<!-- Montgomery Open Data Section -->
+<div id="montgomery-data-section" class="hidden mb-8">
+    <div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+        <div class="flex items-center justify-between mb-6">
+            <h3 class="text-lg font-semibold text-gray-900">Montgomery County Open Data</h3>
+            <div class="flex space-x-2">
+                <button id="discover-datasets-btn" class="px-3 py-1 text-sm font-medium text-blue-700 bg-blue-50 border border-blue-300 rounded hover:bg-blue-100">
+                    Discover Datasets
+                </button>
+                <button id="crawl-montgomery-btn" class="px-3 py-1 text-sm font-medium text-green-700 bg-green-50 border border-green-300 rounded hover:bg-green-100">
+                    Crawl Data
+                </button>
+                <button id="analyze-montgomery-btn" class="px-3 py-1 text-sm font-medium text-purple-700 bg-purple-50 border border-purple-300 rounded hover:bg-purple-100">
+                    Analyze
+                </button>
+            </div>
+        </div>
+        
+        <!-- Montgomery Data Status -->
+        <div id="montgomery-status" class="grid grid-cols-1 md:grid-cols-4 gap-4 mb-6">
+            <div class="bg-gray-50 rounded-lg p-4">
+                <p class="text-sm font-medium text-gray-600">Data Available</p>
+                <p id="montgomery-has-data" class="text-xl font-bold text-gray-900">-</p>
+            </div>
+            <div class="bg-gray-50 rounded-lg p-4">
+                <p class="text-sm font-medium text-gray-600">Total Records</p>
+                <p id="montgomery-total-records" class="text-xl font-bold text-blue-600">-</p>
+            </div>
+            <div class="bg-gray-50 rounded-lg p-4">
+                <p class="text-sm font-medium text-gray-600">File Count</p>
+                <p id="montgomery-file-count" class="text-xl font-bold text-green-600">-</p>
+            </div>
+            <div class="bg-gray-50 rounded-lg p-4">
+                <p class="text-sm font-medium text-gray-600">Last Crawl</p>
+                <p id="montgomery-last-crawl" class="text-sm font-medium text-gray-900">-</p>
+            </div>
+        </div>
+        
+        <!-- Montgomery Data Categories -->
+        <div id="montgomery-categories" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-6">
+            <!-- Categories will be populated dynamically -->
+        </div>
+        
+        <!-- Montgomery Data Analysis Results -->
+        <div id="montgomery-analysis" class="hidden">
+            <h4 class="text-md font-semibold text-gray-900 mb-4">Analysis Results</h4>
+            <div id="montgomery-analysis-content" class="space-y-4">
+                <!-- Analysis results will be populated dynamically -->
+            </div>
+        </div>
+        
+        <!-- Loading indicator -->
+        <div id="montgomery-loading" class="hidden text-center py-8">
+            <div class="inline-flex items-center space-x-2">
+                <div class="animate-spin rounded-full h-4 w-4 border-b-2 border-blue-600"></div>
+                <span class="text-sm text-gray-600">Processing Montgomery data...</span>
+            </div>
+        </div>
+    </div>
+</div>

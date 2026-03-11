@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-03-08T07:56:57.637885Z",
+  "total_properties": 0,
+  "high_risk_vacancies": [],
+  "construction_hotspots": [],
+  "traffic_alerts": [],
+  "real_estate_trends": {
+    "sources_crawled": 3,
+    "listing_keywords": {},
+    "price_range": {
+      "min": 40000,
+      "max": 414472
+    },
+    "vacancy_mentions": 0,
+    "raw_snippets": [
+      {
+        "url": "https://www.zillow.com/montgomery-al/",
+        "preview": "# montgomery al real estate - montgomery al homes for sale | zillow\n\n- sign in\n\n- join\n\n- buy open buy sub-menu\n\n- rent open rent sub-menu\n\n- sell open sell sub-menu\n\n- get a mortgage open get a mortg"
+      }
+    ]
+  },
+  "summary": {
+    "total_city_vacant_properties": 0,
+    "high_risk_count": 0,
+    "total_violations_indexed": 0,
+    "permits_last_90_days": 0,
+    "traffic_incidents_last_30d": 0,
+    "avg_vacancy_score": 0.0
+  }
+}

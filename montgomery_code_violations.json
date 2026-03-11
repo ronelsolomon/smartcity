@@ -1,0 +1,34 @@
+[
+  {
+    "violation_id": "V2024001",
+    "address": "1234 Bell St",
+    "type": "High Grass/Weeds",
+    "date": "2024-01-15",
+    "status": "Open",
+    "severity": "High"
+  },
+  {
+    "violation_id": "V2024002",
+    "address": "1234 Bell St",
+    "type": "Structural Issues",
+    "date": "2024-01-20",
+    "status": "Open",
+    "severity": "Critical"
+  },
+  {
+    "violation_id": "V2024003",
+    "address": "5678 Mobile St",
+    "type": "Boarded Windows",
+    "date": "2024-02-01",
+    "status": "Open",
+    "severity": "Medium"
+  },
+  {
+    "violation_id": "V2024004",
+    "address": "9012 Dexter Ave",
+    "type": "Trash/Debris",
+    "date": "2023-12-20",
+    "status": "Open",
+    "severity": "Medium"
+  }
+]
